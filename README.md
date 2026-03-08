@@ -9,7 +9,7 @@ This repository contains game data files (DATs) required for implementing era-ac
 ## Dat Lists
 
 ### Dynamis
-ROM2/13/121.DAT | Dynamis Sandoria
-ROM2/13/122.DAT | Dynamis Bastok
-ROM2/13/123.DAT | Dynamis Windurst
-ROM2/13/124.DAT | Dynamis Jeuno
+- ROM2/13/121.DAT | Dynamis Sandoria
+- ROM2/13/122.DAT | Dynamis Bastok
+- ROM2/13/123.DAT | Dynamis Windurst
+- ROM2/13/124.DAT | Dynamis Jeuno
