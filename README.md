@@ -14,3 +14,4 @@ This repository contains game data files (DATs) required for implementing era-ac
 - ROM2/13/123.DAT | Dynamis Windurst
 - ROM2/13/124.DAT | Dynamis Jeuno
 - ROM2/13/104.DAT | Dynamis Beaucedine
+- ROM2/13/105.DAT | Dynamis Xarcabard
