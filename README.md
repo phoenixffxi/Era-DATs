@@ -17,3 +17,4 @@ This repository contains game data files (DATs) required for implementing era-ac
 - ROM2/13/105.DAT | Dynamis Xarcabard
 - ROM3/3/21.DAT   | Dynamis Valkurm
 - ROM3/3/22.DAT   | Dynamis Buburimu
+- ROM3/3/23.DAT   | Dynamis Qufim
