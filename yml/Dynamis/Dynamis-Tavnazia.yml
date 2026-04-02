@@ -1,0 +1,815 @@
+names:
+- id: 16949249
+  name: Nightmare Bugard
+- id: 16949250
+  name: Nightmare Worm
+- id: 16949251
+  name: Nightmare Worm
+- id: 16949252
+  name: Nightmare Worm
+- id: 16949253
+  name: Nightmare Worm
+- id: 16949254
+  name: Nightmare Worm
+- id: 16949255
+  name: Nightmare Antlion
+- id: 16949256
+  name: Nightmare Antlion
+- id: 16949257
+  name: Nightmare Antlion
+- id: 16949258
+  name: Nightmare Antlion
+- id: 16949259
+  name: Umbral Diabolos
+- id: 16949260
+  name: Umbral Diabolos
+- id: 16949261
+  name: Umbral Diabolos
+- id: 16949262
+  name: Umbral Diabolos
+- id: 16949263
+  name: Diabolos Spade
+- id: 16949264
+  name: Diabolos Heart
+- id: 16949265
+  name: Diabolos Diamond
+- id: 16949266
+  name: Diabolos Club
+- id: 16949267
+  name: Diabolos's Shard
+- id: 16949268
+  name: Diabolos's Shard
+- id: 16949269
+  name: Nightmare Hornet
+- id: 16949270
+  name: Nightmare Hornet
+- id: 16949271
+  name: Nightmare Hornet
+- id: 16949272
+  name: Nightmare Hornet
+- id: 16949273
+  name: Nightmare Hornet
+- id: 16949274
+  name: Nightmare Hornet
+- id: 16949275
+  name: Nightmare Hornet
+- id: 16949276
+  name: Nightmare Hornet
+- id: 16949277
+  name: Nightmare Hornet
+- id: 16949278
+  name: Nightmare Hornet
+- id: 16949279
+  name: Nightmare Hornet
+- id: 16949280
+  name: Nightmare Hornet
+- id: 16949281
+  name: Nightmare Hornet
+- id: 16949282
+  name: Nightmare Hornet
+- id: 16949283
+  name: Nightmare Hornet
+- id: 16949284
+  name: Nightmare Hornet
+- id: 16949285
+  name: Nightmare Hornet
+- id: 16949286
+  name: Nightmare Hornet
+- id: 16949287
+  name: Nightmare Hornet
+- id: 16949288
+  name: Nightmare Hornet
+- id: 16949289
+  name: Nightmare Hornet
+- id: 16949290
+  name: Nightmare Hornet
+- id: 16949291
+  name: Nightmare Hornet
+- id: 16949292
+  name: Nightmare Hornet
+- id: 16949293
+  name: Vanguard Eye
+- id: 16949294
+  name: Hydra Warrior
+- id: 16949295
+  name: Hydra Red Mage
+- id: 16949296
+  name: Hydra Ranger
+- id: 16949297
+  name: Vanguard Eye
+- id: 16949298
+  name: Hydra Monk
+- id: 16949299
+  name: Hydra Bard
+- id: 16949300
+  name: Hydra Samurai
+- id: 16949301
+  name: Hydra Ninja
+- id: 16949302
+  name: Vanguard Eye
+- id: 16949303
+  name: Hydra Dark Knight
+- id: 16949304
+  name: Hydra Beastmaster
+- id: 16949305
+  name: Hydra's Hound
+- id: 16949306
+  name: Hydra Summoner
+- id: 16949307
+  name: Hydra's Avatar
+- id: 16949308
+  name: Vanguard Eye
+- id: 16949309
+  name: Hydra White Mage
+- id: 16949310
+  name: Hydra Black Mage
+- id: 16949311
+  name: Hydra Thief
+- id: 16949312
+  name: Hydra Paladin
+- id: 16949313
+  name: Hydra Dragoon
+- id: 16949314
+  name: Hydra's Wyvern
+- id: 16949315
+  name: Vanguard Eye
+- id: 16949316
+  name: Hydra White Mage
+- id: 16949317
+  name: Hydra Black Mage
+- id: 16949318
+  name: Hydra Red Mage
+- id: 16949319
+  name: Vanguard Eye
+- id: 16949320
+  name: Hydra Beastmaster
+- id: 16949321
+  name: Hydra's Hound
+- id: 16949322
+  name: Hydra Dragoon
+- id: 16949323
+  name: Hydra's Wyvern
+- id: 16949324
+  name: Hydra Summoner
+- id: 16949325
+  name: Hydra's Avatar
+- id: 16949326
+  name: Vanguard Eye
+- id: 16949327
+  name: Hydra Warrior
+- id: 16949328
+  name: Hydra Monk
+- id: 16949329
+  name: Hydra Thief
+- id: 16949330
+  name: Hydra Samurai
+- id: 16949331
+  name: Vanguard Eye
+- id: 16949332
+  name: Hydra Paladin
+- id: 16949333
+  name: Hydra Dark Knight
+- id: 16949334
+  name: Hydra Bard
+- id: 16949335
+  name: Hydra Ranger
+- id: 16949336
+  name: Hydra Ninja
+- id: 16949337
+  name: Vanguard Eye
+- id: 16949338
+  name: Hydra Monk
+- id: 16949339
+  name: Hydra Paladin
+- id: 16949340
+  name: Hydra Ranger
+- id: 16949341
+  name: Hydra Summoner
+- id: 16949342
+  name: Hydra's Avatar
+- id: 16949343
+  name: Vanguard Eye
+- id: 16949344
+  name: Hydra Warrior
+- id: 16949345
+  name: Hydra White Mage
+- id: 16949346
+  name: Hydra Red Mage
+- id: 16949347
+  name: Hydra Thief
+- id: 16949348
+  name: Vanguard Eye
+- id: 16949349
+  name: Hydra Black Mage
+- id: 16949350
+  name: Hydra Dark Knight
+- id: 16949351
+  name: Hydra Ninja
+- id: 16949352
+  name: Vanguard Eye
+- id: 16949353
+  name: Hydra Beastmaster
+- id: 16949354
+  name: Hydra's Hound
+- id: 16949355
+  name: Hydra Bard
+- id: 16949356
+  name: Hydra Samurai
+- id: 16949357
+  name: Hydra Dragoon
+- id: 16949358
+  name: Hydra's Wyvern
+- id: 16949359
+  name: Vanguard Eye
+- id: 16949360
+  name: Hydra Monk
+- id: 16949361
+  name: Hydra White Mage
+- id: 16949362
+  name: Hydra Bard
+- id: 16949363
+  name: Hydra Ninja
+- id: 16949364
+  name: Vanguard Eye
+- id: 16949365
+  name: Hydra Black Mage
+- id: 16949366
+  name: Hydra Ranger
+- id: 16949367
+  name: Hydra Summoner
+- id: 16949368
+  name: Hydra's Avatar
+- id: 16949369
+  name: Vanguard Eye
+- id: 16949370
+  name: Hydra Warrior
+- id: 16949371
+  name: Hydra Paladin
+- id: 16949372
+  name: Hydra Dark Knight
+- id: 16949373
+  name: Hydra Samurai
+- id: 16949374
+  name: Vanguard Eye
+- id: 16949375
+  name: Hydra Red Mage
+- id: 16949376
+  name: Hydra Thief
+- id: 16949377
+  name: Hydra Beastmaster
+- id: 16949378
+  name: Hydra's Hound
+- id: 16949379
+  name: Hydra Dragoon
+- id: 16949380
+  name: Hydra's Wyvern
+- id: 16949381
+  name: Nightmare Leech
+- id: 16949382
+  name: Nightmare Leech
+- id: 16949383
+  name: Nightmare Leech
+- id: 16949384
+  name: Nightmare Leech
+- id: 16949385
+  name: Nightmare Leech
+- id: 16949386
+  name: Nightmare Leech
+- id: 16949387
+  name: Nightmare Leech
+- id: 16949388
+  name: Nightmare Leech
+- id: 16949389
+  name: Nightmare Leech
+- id: 16949390
+  name: Nightmare Leech
+- id: 16949391
+  name: Nightmare Leech
+- id: 16949392
+  name: Nightmare Leech
+- id: 16949393
+  name: Nightmare Leech
+- id: 16949394
+  name: Nightmare Leech
+- id: 16949395
+  name: Nightmare Leech
+- id: 16949396
+  name: Nightmare Leech
+- id: 16949397
+  name: Nightmare Leech
+- id: 16949398
+  name: Nightmare Leech
+- id: 16949399
+  name: Nightmare Leech
+- id: 16949400
+  name: Nightmare Leech
+- id: 16949401
+  name: Nightmare Leech
+- id: 16949402
+  name: Nightmare Leech
+- id: 16949403
+  name: Nightmare Leech
+- id: 16949404
+  name: Nightmare Leech
+- id: 16949405
+  name: Nightmare Leech
+- id: 16949406
+  name: Nightmare Leech
+- id: 16949407
+  name: Nightmare Leech
+- id: 16949408
+  name: Nightmare Leech
+- id: 16949409
+  name: Nightmare Leech
+- id: 16949410
+  name: Nightmare Leech
+- id: 16949411
+  name: Nightmare Leech
+- id: 16949412
+  name: Nightmare Leech
+- id: 16949413
+  name: Nightmare Leech
+- id: 16949414
+  name: Nightmare Leech
+- id: 16949415
+  name: Nightmare Leech
+- id: 16949416
+  name: Nightmare Leech
+- id: 16949417
+  name: Nightmare Leech
+- id: 16949418
+  name: Nightmare Leech
+- id: 16949419
+  name: Nightmare Leech
+- id: 16949420
+  name: Nightmare Leech
+- id: 16949421
+  name: Nightmare Makara
+- id: 16949422
+  name: Nightmare Makara
+- id: 16949423
+  name: Nightmare Makara
+- id: 16949424
+  name: Nightmare Makara
+- id: 16949425
+  name: Nightmare Makara
+- id: 16949426
+  name: Nightmare Makara
+- id: 16949427
+  name: Nightmare Makara
+- id: 16949428
+  name: Nightmare Makara
+- id: 16949429
+  name: Nightmare Makara
+- id: 16949430
+  name: Nightmare Makara
+- id: 16949431
+  name: Nightmare Makara
+- id: 16949432
+  name: Nightmare Makara
+- id: 16949433
+  name: Nightmare Makara
+- id: 16949434
+  name: Nightmare Makara
+- id: 16949435
+  name: Nightmare Makara
+- id: 16949436
+  name: Nightmare Makara
+- id: 16949437
+  name: Nightmare Makara
+- id: 16949438
+  name: Nightmare Makara
+- id: 16949439
+  name: Nightmare Makara
+- id: 16949440
+  name: Nightmare Makara
+- id: 16949441
+  name: Nightmare Makara
+- id: 16949442
+  name: Nightmare Makara
+- id: 16949443
+  name: Nightmare Makara
+- id: 16949444
+  name: Nightmare Makara
+- id: 16949445
+  name: Nightmare Makara
+- id: 16949446
+  name: Nightmare Makara
+- id: 16949447
+  name: Nightmare Makara
+- id: 16949448
+  name: Nightmare Makara
+- id: 16949449
+  name: Nightmare Makara
+- id: 16949450
+  name: Nightmare Makara
+- id: 16949451
+  name: Nightmare Makara
+- id: 16949452
+  name: Nightmare Makara
+- id: 16949453
+  name: Nightmare Makara
+- id: 16949454
+  name: Nightmare Makara
+- id: 16949455
+  name: Nightmare Makara
+- id: 16949456
+  name: Nightmare Makara
+- id: 16949457
+  name: Nightmare Makara
+- id: 16949458
+  name: Nightmare Makara
+- id: 16949459
+  name: Nightmare Makara
+- id: 16949460
+  name: Nightmare Makara
+- id: 16949461
+  name: Nightmare Hornet
+- id: 16949462
+  name: Nightmare Hornet
+- id: 16949463
+  name: Nightmare Hornet
+- id: 16949464
+  name: Nightmare Hornet
+- id: 16949465
+  name: Nightmare Hornet
+- id: 16949466
+  name: Nightmare Hornet
+- id: 16949467
+  name: Nightmare Hornet
+- id: 16949468
+  name: Nightmare Hornet
+- id: 16949469
+  name: Nightmare Hornet
+- id: 16949470
+  name: Nightmare Hornet
+- id: 16949471
+  name: Nightmare Hornet
+- id: 16949472
+  name: Nightmare Hornet
+- id: 16949473
+  name: Nightmare Hornet
+- id: 16949474
+  name: Nightmare Hornet
+- id: 16949475
+  name: Nightmare Hornet
+- id: 16949476
+  name: Nightmare Hornet
+- id: 16949477
+  name: Nightmare Hornet
+- id: 16949478
+  name: Nightmare Hornet
+- id: 16949479
+  name: Nightmare Hornet
+- id: 16949480
+  name: Nightmare Hornet
+- id: 16949481
+  name: Nightmare Hornet
+- id: 16949482
+  name: Nightmare Hornet
+- id: 16949483
+  name: Nightmare Hornet
+- id: 16949484
+  name: Nightmare Hornet
+- id: 16949485
+  name: Vanguard Eye
+- id: 16949486
+  name: Nightmare Taurus
+- id: 16949487
+  name: Kindred Warrior
+- id: 16949488
+  name: Kindred Thief
+- id: 16949489
+  name: Vanguard Eye
+- id: 16949490
+  name: Nightmare Taurus
+- id: 16949491
+  name: Kindred Black Mage
+- id: 16949492
+  name: Kindred Beastmaster
+- id: 16949493
+  name: Kindred's Vouivre
+- id: 16949494
+  name: Kindred Ninja
+- id: 16949495
+  name: Vanguard Eye
+- id: 16949496
+  name: Nightmare Taurus
+- id: 16949497
+  name: Kindred Ranger
+- id: 16949498
+  name: Kindred Samurai
+- id: 16949499
+  name: Vanguard Eye
+- id: 16949500
+  name: Nightmare Taurus
+- id: 16949501
+  name: Kindred Monk
+- id: 16949502
+  name: Kindred White Mage
+- id: 16949503
+  name: Vanguard Eye
+- id: 16949504
+  name: Nightmare Taurus
+- id: 16949505
+  name: Kindred Paladin
+- id: 16949506
+  name: Kindred Dark Knight
+- id: 16949507
+  name: Kindred Summoner
+- id: 16949508
+  name: Kindred's Avatar
+- id: 16949509
+  name: Vanguard Eye
+- id: 16949510
+  name: Nightmare Taurus
+- id: 16949511
+  name: Kindred Red Mage
+- id: 16949512
+  name: Kindred Bard
+- id: 16949513
+  name: Kindred Dragoon
+- id: 16949514
+  name: Kindred's Wyvern
+- id: 16949515
+  name: Vanguard Eye
+- id: 16949516
+  name: Kindred Black Mage
+- id: 16949517
+  name: Kindred Paladin
+- id: 16949518
+  name: Kindred Bard
+- id: 16949519
+  name: Kindred Summoner
+- id: 16949520
+  name: Kindred's Avatar
+- id: 16949521
+  name: Vanguard Eye
+- id: 16949522
+  name: Nightmare Taurus
+- id: 16949523
+  name: Nightmare Taurus
+- id: 16949524
+  name: Nightmare Taurus
+- id: 16949525
+  name: Vanguard Eye
+- id: 16949526
+  name: Kindred Warrior
+- id: 16949527
+  name: Kindred Ninja
+- id: 16949528
+  name: Kindred Dragoon
+- id: 16949529
+  name: Kindred's Wyvern
+- id: 16949530
+  name: Vanguard Eye
+- id: 16949531
+  name: Kindred Red Mage
+- id: 16949532
+  name: Kindred Dark Knight
+- id: 16949533
+  name: Kindred Ranger
+- id: 16949534
+  name: Vanguard Eye
+- id: 16949535
+  name: Kindred White Mage
+- id: 16949536
+  name: Kindred Thief
+- id: 16949537
+  name: Kindred Beastmaster
+- id: 16949538
+  name: Kindred's Vouivre
+- id: 16949539
+  name: Kindred Samurai
+- id: 16949540
+  name: Vanguard Eye
+- id: 16949541
+  name: Nightmare Taurus
+- id: 16949542
+  name: Nightmare Taurus
+- id: 16949543
+  name: Nightmare Taurus
+- id: 16949544
+  name: Kindred Monk
+- id: 16949545
+  name: Vanguard Eye
+- id: 16949546
+  name: Nightmare Taurus
+- id: 16949547
+  name: Nightmare Taurus
+- id: 16949548
+  name: Kindred Warrior
+- id: 16949549
+  name: Kindred Thief
+- id: 16949550
+  name: Vanguard Eye
+- id: 16949551
+  name: Nightmare Taurus
+- id: 16949552
+  name: Nightmare Taurus
+- id: 16949553
+  name: Kindred Black Mage
+- id: 16949554
+  name: Kindred Beastmaster
+- id: 16949555
+  name: Kindred's Vouivre
+- id: 16949556
+  name: Kindred Ninja
+- id: 16949557
+  name: Vanguard Eye
+- id: 16949558
+  name: Nightmare Taurus
+- id: 16949559
+  name: Nightmare Taurus
+- id: 16949560
+  name: Kindred Ranger
+- id: 16949561
+  name: Kindred Samurai
+- id: 16949562
+  name: Vanguard Eye
+- id: 16949563
+  name: Nightmare Taurus
+- id: 16949564
+  name: Nightmare Taurus
+- id: 16949565
+  name: Kindred Monk
+- id: 16949566
+  name: Kindred White Mage
+- id: 16949567
+  name: Vanguard Eye
+- id: 16949568
+  name: Nightmare Taurus
+- id: 16949569
+  name: Nightmare Taurus
+- id: 16949570
+  name: Kindred Paladin
+- id: 16949571
+  name: Kindred Dark Knight
+- id: 16949572
+  name: Kindred Summoner
+- id: 16949573
+  name: Kindred's Avatar
+- id: 16949574
+  name: Vanguard Eye
+- id: 16949575
+  name: Nightmare Taurus
+- id: 16949576
+  name: Nightmare Taurus
+- id: 16949577
+  name: Kindred Red Mage
+- id: 16949578
+  name: Kindred Bard
+- id: 16949579
+  name: Kindred Dragoon
+- id: 16949580
+  name: Kindred's Wyvern
+- id: 16949581
+  name: Vanguard Eye
+- id: 16949582
+  name: Nightmare Taurus
+- id: 16949583
+  name: Nightmare Taurus
+- id: 16949584
+  name: Nightmare Taurus
+- id: 16949585
+  name: Vanguard Eye
+- id: 16949586
+  name: Kindred Beastmaster
+- id: 16949587
+  name: Kindred's Vouivre
+- id: 16949588
+  name: Kindred Dragoon
+- id: 16949589
+  name: Kindred's Wyvern
+- id: 16949590
+  name: Kindred Summoner
+- id: 16949591
+  name: Kindred's Avatar
+- id: 16949592
+  name: Vanguard Eye
+- id: 16949593
+  name: Kindred Warrior
+- id: 16949594
+  name: Kindred White Mage
+- id: 16949595
+  name: Kindred Bard
+- id: 16949596
+  name: Kindred Ranger
+- id: 16949597
+  name: Vanguard Eye
+- id: 16949598
+  name: Nightmare Taurus
+- id: 16949599
+  name: Kindred Black Mage
+- id: 16949600
+  name: Vanguard Eye
+- id: 16949601
+  name: Nightmare Taurus
+- id: 16949602
+  name: Kindred Thief
+- id: 16949603
+  name: Kindred Samurai
+- id: 16949604
+  name: Vanguard Eye
+- id: 16949605
+  name: Nightmare Taurus
+- id: 16949606
+  name: Kindred Monk
+- id: 16949607
+  name: Kindred Red Mage
+- id: 16949608
+  name: Kindred Paladin
+- id: 16949609
+  name: Kindred Dark Knight
+- id: 16949610
+  name: Kindred Ninja
+- id: 16949611
+  name: Nightmare Cluster
+- id: 16949612
+  name: Nightmare Cluster
+- id: 16949613
+  name: Nightmare Cluster
+- id: 16949614
+  name: Nightmare Cluster
+- id: 16949615
+  name: Nightmare Cluster
+- id: 16949616
+  name: Nightmare Cluster
+- id: 16949617
+  name: Nightmare Cluster
+- id: 16949618
+  name: Nightmare Cluster
+- id: 16949619
+  name: Nightmare Cluster
+- id: 16949620
+  name: Nightmare Cluster
+- id: 16949621
+  name: Nightmare Cluster
+- id: 16949622
+  name: Nightmare Cluster
+- id: 16949623
+  name: Nightmare Cluster
+- id: 16949624
+  name: Nightmare Cluster
+- id: 16949625
+  name: Nightmare Cluster
+- id: 16949626
+  name: Nightmare Cluster
+- id: 16949627
+  name: Nightmare Cluster
+- id: 16949628
+  name: Nightmare Cluster
+- id: 16949629
+  name: Nightmare Cluster
+- id: 16949630
+  name: Nightmare Cluster
+- id: 16949631
+  name: Nightmare Cluster
+- id: 16949632
+  name: Nightmare Cluster
+- id: 16949633
+  name: Nightmare Cluster
+- id: 16949634
+  name: Nightmare Cluster
+- id: 16949635
+  name: Nightmare Cluster
+- id: 16949636
+  name: Nightmare Cluster
+- id: 16949637
+  name: Nightmare Cluster
+- id: 16949638
+  name: Nightmare Cluster
+- id: 16949639
+  name: Nightmare Cluster
+- id: 16949640
+  name: Nightmare Cluster
+- id: 16949641
+  name: Nightmare Cluster
+- id: 16949642
+  name: Nightmare Cluster
+- id: 16949643
+  name: Nightmare Cluster
+- id: 16949644
+  name: Nightmare Cluster
+- id: 16949645
+  name: Nightmare Cluster
+- id: 16949646
+  name: Nightmare Cluster
+- id: 16949647
+  name: Nightmare Cluster
+- id: 16949648
+  name: Nightmare Cluster
+- id: 16949649
+  name: Nightmare Cluster
+- id: 16949650
+  name: Nightmare Cluster
+- id: 16949651
+  name: Nightmare Cluster
+- id: 16949652
+  name: Nightmare Cluster
+- id: 16949653
+  name: ???
+- id: 16949654
+  name: ???
+- id: 16949655
+  name: ???
