@@ -1,0 +1,698 @@
+Mgc_ Menu Changes
+=================
+
+Entries changed: 343
+Field changes: 893
+
+Index 6 - Cure VI
+  mp_cost: 227 -> 225
+  casting_time: 8 -> 13
+  recast_time: 60 -> 25
+
+Index 11 - Curaga V
+  mp_cost: 380 -> 450
+
+Index 13 - Raise II
+  mp_cost: 150 -> 200
+  casting_time: 56 -> 80
+
+Index 16 - Blindna
+  casting_time: 4 -> 12
+
+Index 20 - Cursna
+  casting_time: 4 -> 12
+
+Index 22 - Holy II
+  mp_cost: 150 -> 200
+  casting_time: 4 -> 5
+
+Index 29 - Banish II
+  casting_time: 10 -> 15
+
+Index 30 - Banish III
+  casting_time: 12 -> 22
+
+Index 81 - (NULL)
+  mp_cost: 125 -> 5
+  casting_time: 80 -> 12
+
+Index 82 - (NULL)
+  mp_cost: 125 -> 5
+  casting_time: 80 -> 12
+
+Index 83 - (NULL)
+  mp_cost: 125 -> 5
+  casting_time: 80 -> 12
+
+Index 84 - (NULL)
+  mp_cost: 30 -> 5
+  casting_time: 10 -> 12
+
+Index 85 - (NULL)
+  mp_cost: 60 -> 5
+  casting_time: 20 -> 12
+
+Index 93 - (NULL)
+  mp_cost: 30 -> 5
+  recast_time: 120 -> 40
+
+Index 94 - (NULL)
+  mp_cost: 18 -> 5
+  casting_time: 4 -> 12
+  recast_time: 120 -> 40
+  valid targets: SelfTarget, PartyMember -> SelfTarget
+
+Index 95 - (NULL)
+  mp_cost: 24 -> 5
+  casting_time: 4 -> 12
+  recast_time: 120 -> 40
+
+Index 96 - (NULL)
+  mp_cost: 48 -> 5
+
+Index 97 - (NULL)
+  mp_cost: 24 -> 5
+  casting_time: 4 -> 12
+  recast_time: 208 -> 40
+
+Index 98 - (NULL)
+  mp_cost: 26 -> 5
+  recast_time: 120 -> 40
+  valid targets: Enemy -> SelfTarget
+
+Index 99 - (NULL)
+  mp_cost: 30 -> 5
+  casting_time: 8 -> 12
+  recast_time: 72 -> 40
+  valid targets: SelfTarget, PartyMember -> SelfTarget
+
+Index 108 - Regen
+  casting_time: 6 -> 16
+
+Index 110 - Regen II
+  casting_time: 7 -> 18
+
+Index 111 - Regen III
+  casting_time: 8 -> 20
+
+Index 125 - Protectra
+  casting_time: 4 -> 12
+
+Index 126 - Protectra II
+  casting_time: 5 -> 15
+
+Index 127 - Protectra III
+  casting_time: 6 -> 18
+
+Index 128 - Protectra IV
+  casting_time: 7 -> 21
+
+Index 129 - Protectra V
+  casting_time: 8 -> 24
+
+Index 130 - Shellra
+  casting_time: 4 -> 12
+
+Index 131 - Shellra II
+  casting_time: 5 -> 15
+
+Index 132 - Shellra III
+  casting_time: 6 -> 18
+
+Index 133 - Shellra IV
+  casting_time: 7 -> 21
+
+Index 134 - Shellra V
+  casting_time: 8 -> 24
+
+Index 140 - Raise III
+  mp_cost: 150 -> 250
+  casting_time: 52 -> 80
+
+Index 141 - Reraise II
+  mp_cost: 150 -> 175
+  casting_time: 30 -> 32
+
+Index 142 - Reraise III
+  mp_cost: 150 -> 200
+  casting_time: 28 -> 32
+
+Index 144 - Fire
+  mp_cost: 7 -> 24
+  casting_time: 2 -> 9
+  recast_time: 8 -> 41
+
+Index 145 - Fire II
+  mp_cost: 26 -> 68
+  casting_time: 6 -> 17
+  recast_time: 24 -> 74
+
+Index 146 - Fire III
+  mp_cost: 63 -> 113
+  casting_time: 12 -> 24
+  recast_time: 60 -> 106
+
+Index 147 - Fire IV
+  mp_cost: 135 -> 157
+  casting_time: 20 -> 32
+  recast_time: 120 -> 139
+
+Index 148 - Fire V
+  mp_cost: 228 -> 272
+  casting_time: 30 -> 39
+  recast_time: 180 -> 171
+
+Index 149 - Blizzard
+  mp_cost: 8 -> 30
+  casting_time: 2 -> 10
+  recast_time: 8 -> 46
+
+Index 150 - Blizzard II
+  mp_cost: 31 -> 77
+  casting_time: 6 -> 18
+  recast_time: 24 -> 79
+
+Index 151 - Blizzard III
+  mp_cost: 75 -> 120
+  casting_time: 12 -> 25
+  recast_time: 60 -> 111
+
+Index 152 - Blizzard IV
+  mp_cost: 162 -> 164
+  casting_time: 20 -> 33
+  recast_time: 120 -> 144
+
+Index 153 - Blizzard V
+  mp_cost: 267 -> 285
+  casting_time: 30 -> 40
+  recast_time: 180 -> 176
+
+Index 154 - Aero
+  mp_cost: 6 -> 18
+  casting_time: 2 -> 8
+  recast_time: 8 -> 36
+
+Index 155 - Aero II
+  mp_cost: 22 -> 59
+  casting_time: 6 -> 15
+  recast_time: 24 -> 68
+
+Index 156 - Aero III
+  mp_cost: 54 -> 106
+  casting_time: 12 -> 23
+  recast_time: 60 -> 101
+
+Index 157 - Aero IV
+  mp_cost: 115 -> 150
+  casting_time: 20 -> 30
+  recast_time: 120 -> 133
+
+Index 158 - Aero V
+  mp_cost: 198 -> 260
+  casting_time: 30 -> 38
+  recast_time: 180 -> 166
+
+Index 159 - Stone
+  mp_cost: 4 -> 9
+  casting_time: 2 -> 6
+  recast_time: 8 -> 26
+
+Index 160 - Stone II
+  mp_cost: 16 -> 43
+  casting_time: 6 -> 13
+  recast_time: 24 -> 58
+
+Index 161 - Stone III
+  mp_cost: 40 -> 92
+  casting_time: 12 -> 21
+  recast_time: 60 -> 90
+
+Index 162 - Stone IV
+  mp_cost: 88 -> 138
+  casting_time: 20 -> 28
+  recast_time: 120 -> 123
+
+Index 163 - Stone V
+  mp_cost: 156 -> 235
+  casting_time: 30 -> 35
+  recast_time: 180 -> 156
+
+Index 164 - Thunder
+  mp_cost: 9 -> 37
+  casting_time: 2 -> 12
+  recast_time: 8 -> 52
+
+Index 165 - Thunder II
+  mp_cost: 37 -> 86
+  casting_time: 6 -> 19
+  recast_time: 24 -> 84
+
+Index 166 - Thunder III
+  mp_cost: 91 -> 128
+  casting_time: 12 -> 27
+  recast_time: 60 -> 117
+
+Index 167 - Thunder IV
+  mp_cost: 195 -> 171
+  casting_time: 20 -> 34
+  recast_time: 120 -> 149
+
+Index 168 - Thunder V
+  mp_cost: 306 -> 298
+  casting_time: 30 -> 41
+  recast_time: 180 -> 182
+
+Index 169 - Water
+  mp_cost: 5 -> 13
+  casting_time: 2 -> 7
+  recast_time: 8 -> 31
+
+Index 170 - Water II
+  mp_cost: 19 -> 51
+  casting_time: 6 -> 14
+  recast_time: 24 -> 63
+
+Index 171 - Water III
+  mp_cost: 46 -> 98
+  casting_time: 12 -> 22
+  recast_time: 60 -> 96
+
+Index 172 - Water IV
+  mp_cost: 99 -> 144
+  casting_time: 20 -> 29
+  recast_time: 120 -> 128
+
+Index 173 - Water V
+  mp_cost: 175 -> 247
+  casting_time: 30 -> 37
+  recast_time: 180 -> 161
+
+Index 174 - Firaga
+  mp_cost: 57 -> 71
+  casting_time: 8 -> 14
+  recast_time: 20 -> 61
+
+Index 175 - Firaga II
+  mp_cost: 153 -> 158
+  casting_time: 16 -> 21
+  recast_time: 40 -> 93
+
+Index 176 - Firaga III
+  mp_cost: 263 -> 277
+  casting_time: 28 -> 29
+  recast_time: 100 -> 126
+
+Index 177 - Firaga IV
+  mp_cost: 360 -> 428
+  casting_time: 48 -> 36
+  recast_time: 160 -> 158
+
+Index 178 - Firaga V
+  mp_cost: 450 -> 610
+  casting_time: 64 -> 44
+  recast_time: 240 -> 191
+
+Index 179 - Blizzaga
+  mp_cost: 80 -> 82
+  casting_time: 8 -> 15
+  recast_time: 20 -> 66
+
+Index 180 - Blizzaga II
+  casting_time: 16 -> 22
+  recast_time: 40 -> 98
+
+Index 181 - Blizzaga III
+  mp_cost: 297 -> 299
+  casting_time: 28 -> 30
+  recast_time: 100 -> 131
+
+Index 182 - Blizzaga IV
+  mp_cost: 403 -> 455
+  casting_time: 48 -> 37
+  recast_time: 160 -> 163
+
+Index 183 - Blizzaga V
+  mp_cost: 500 -> 642
+  casting_time: 64 -> 45
+  recast_time: 240 -> 196
+
+Index 184 - Aeroga
+  mp_cost: 45 -> 57
+  casting_time: 8 -> 12
+  recast_time: 20 -> 54
+
+Index 185 - Aeroga II
+  mp_cost: 131 -> 138
+  casting_time: 16 -> 20
+  recast_time: 40 -> 87
+
+Index 186 - Aeroga III
+  mp_cost: 232 -> 252
+  casting_time: 28 -> 27
+  recast_time: 100 -> 119
+
+Index 187 - Aeroga IV
+  mp_cost: 318 -> 396
+  casting_time: 48 -> 35
+  recast_time: 160 -> 152
+
+Index 188 - Aeroga V
+  mp_cost: 402 -> 571
+  casting_time: 64 -> 42
+  recast_time: 240 -> 184
+
+Index 189 - Stonega
+  mp_cost: 24 -> 37
+  casting_time: 8 -> 10
+  recast_time: 20 -> 44
+
+Index 190 - Stonega II
+  mp_cost: 93 -> 109
+  casting_time: 16 -> 17
+  recast_time: 40 -> 76
+
+Index 191 - Stonega III
+  mp_cost: 175 -> 211
+  casting_time: 28 -> 25
+  recast_time: 100 -> 109
+
+Index 192 - Stonega IV
+  mp_cost: 243 -> 345
+  casting_time: 48 -> 32
+  recast_time: 160 -> 141
+
+Index 193 - Stonega V
+  mp_cost: 315 -> 512
+  casting_time: 64 -> 40
+  recast_time: 240 -> 174
+
+Index 194 - Thundaga
+  mp_cost: 105 -> 95
+  casting_time: 8 -> 16
+  recast_time: 20 -> 71
+
+Index 195 - Thundaga II
+  mp_cost: 200 -> 193
+  casting_time: 16 -> 24
+  recast_time: 40 -> 104
+
+Index 196 - Thundaga III
+  mp_cost: 332 -> 322
+  casting_time: 28 -> 31
+  recast_time: 100 -> 136
+
+Index 197 - Thundaga IV
+  mp_cost: 450 -> 483
+  casting_time: 48 -> 38
+  recast_time: 160 -> 169
+
+Index 198 - Thundaga V
+  mp_cost: 520 -> 674
+  casting_time: 64 -> 46
+  recast_time: 240 -> 201
+
+Index 199 - Waterga
+  mp_cost: 34 -> 47
+  casting_time: 8 -> 11
+  recast_time: 20 -> 49
+
+Index 200 - Waterga II
+  mp_cost: 112 -> 123
+  casting_time: 16 -> 18
+  recast_time: 40 -> 81
+
+Index 201 - Waterga III
+  mp_cost: 202 -> 231
+  casting_time: 28 -> 26
+  recast_time: 100 -> 114
+
+Index 202 - Waterga IV
+  mp_cost: 280 -> 371
+  casting_time: 48 -> 33
+  recast_time: 160 -> 146
+
+Index 203 - Waterga V
+  mp_cost: 357 -> 541
+  casting_time: 64 -> 41
+  recast_time: 240 -> 179
+
+Index 204 - Flare
+  mp_cost: 315 -> 383
+  casting_time: 34 -> 76
+  recast_time: 240 -> 178
+
+Index 205 - Flare II
+  mp_cost: 280 -> 287
+  casting_time: 28 -> 40
+  recast_time: 240 -> 104
+
+Index 206 - Freeze
+  mp_cost: 315 -> 307
+  casting_time: 34 -> 71
+  recast_time: 240 -> 166
+
+Index 207 - Freeze II
+  mp_cost: 280 -> 287
+  casting_time: 28 -> 40
+  recast_time: 240 -> 104
+
+Index 208 - Tornado
+  mp_cost: 315 -> 322
+  casting_time: 34 -> 72
+  recast_time: 240 -> 169
+
+Index 209 - Tornado II
+  mp_cost: 280 -> 287
+  casting_time: 28 -> 40
+  recast_time: 240 -> 104
+
+Index 210 - Quake
+  mp_cost: 315 -> 337
+  casting_time: 34 -> 73
+  recast_time: 240 -> 171
+
+Index 211 - Quake II
+  mp_cost: 280 -> 287
+  casting_time: 28 -> 40
+  recast_time: 240 -> 104
+
+Index 212 - Burst
+  mp_cost: 315 -> 352
+  casting_time: 34 -> 74
+  recast_time: 240 -> 173
+
+Index 213 - Burst II
+  mp_cost: 280 -> 287
+  casting_time: 28 -> 40
+  recast_time: 240 -> 104
+
+Index 214 - Flood
+  mp_cost: 315 -> 368
+  casting_time: 34 -> 75
+  recast_time: 240 -> 175
+
+Index 215 - Flood II
+  mp_cost: 280 -> 287
+  casting_time: 28 -> 40
+  recast_time: 240 -> 104
+
+Index 217 - Gravity II
+  mp_cost: 36 -> 5
+  casting_time: 6 -> 8
+  recast_time: 44 -> 40
+
+Index 218 - Meteor
+  mp_cost: 418 -> 1
+  recast_time: 208 -> 40
+
+Index 219 - Comet
+  mp_cost: 350 -> 1
+  casting_time: 40 -> 16
+  recast_time: 180 -> 40
+
+Index 246 - Drain II
+  mp_cost: 37 -> 5
+  recast_time: 208 -> 240
+
+Index 248 - Aspir II
+  mp_cost: 5 -> 40
+  casting_time: 12 -> 20
+  recast_time: 44 -> 240
+
+Index 255 - Break
+  mp_cost: 39 -> 50
+  casting_time: 12 -> 8
+  recast_time: 120 -> 40
+
+Index 266 - Absorb-STR
+  casting_time: 2 -> 8
+
+Index 267 - Absorb-DEX
+  casting_time: 2 -> 8
+
+Index 268 - Absorb-VIT
+  casting_time: 2 -> 8
+
+Index 269 - Absorb-AGI
+  casting_time: 2 -> 8
+
+Index 270 - Absorb-INT
+  casting_time: 2 -> 8
+
+Index 271 - Absorb-MND
+  casting_time: 2 -> 8
+
+Index 272 - Absorb-CHR
+  casting_time: 2 -> 8
+
+Index 275 - Absorb-TP
+  casting_time: 2 -> 8
+
+Index 288 - Fire Spirit
+  recast_time: 20 -> 40
+
+Index 289 - Ice Spirit
+  recast_time: 20 -> 40
+
+Index 290 - Air Spirit
+  recast_time: 20 -> 40
+
+Index 291 - Earth Spirit
+  recast_time: 20 -> 40
+
+Index 292 - Thunder Spirit
+  recast_time: 20 -> 40
+
+Index 293 - Water Spirit
+  recast_time: 20 -> 40
+
+Index 294 - Light Spirit
+  recast_time: 20 -> 40
+
+Index 295 - Dark Spirit
+  recast_time: 20 -> 40
+
+Index 296 - Carbuncle
+  recast_time: 20 -> 120
+
+Index 297 - Fenrir
+  recast_time: 20 -> 120
+
+Index 298 - Ifrit
+  recast_time: 20 -> 120
+
+Index 299 - Titan
+  recast_time: 20 -> 120
+
+Index 300 - Leviathan
+  recast_time: 20 -> 120
+
+Index 301 - Garuda
+  recast_time: 20 -> 120
+
+Index 302 - Shiva
+  recast_time: 20 -> 120
+
+Index 303 - Ramuh
+  recast_time: 20 -> 120
+
+Index 304 - Diabolos
+  recast_time: 20 -> 120
+
+Index 340 - Utsusemi: San
+  casting_time: 2 -> 48
+
+Index 353 - Tonko: Ichi
+  casting_time: 6 -> 16
+
+Index 355 - Tonko: San
+  mp_cost: 7 -> 0
+  casting_time: 20 -> 48
+  recast_time: 20 -> 240
+
+Index 360 - Dispelga
+  mp_cost: 200 -> 20
+  casting_time: 12 -> 20
+  recast_time: 40 -> 240
+
+Index 365 - Breakga
+  mp_cost: 78 -> 100
+  casting_time: 14 -> 20
+  recast_time: 180 -> 240
+
+Index 367 - Death
+  mp_cost: 1 -> 666
+  casting_time: 12 -> 20
+  recast_time: 208 -> 40
+
+Index 401 - Hunter's Prelude
+  casting_time: 32 -> 16
+  valid targets: SelfTarget -> SelfTarget, PartyMember
+
+Index 402 - Archer's Prelude
+  casting_time: 32 -> 16
+  valid targets: SelfTarget -> SelfTarget, PartyMember
+
+Index 424 - Sinewy Etude
+  casting_time: 32 -> 16
+  valid targets: SelfTarget -> SelfTarget, PartyMember
+
+Index 425 - Dextrous Etude
+  casting_time: 32 -> 16
+  valid targets: SelfTarget -> SelfTarget, PartyMember
+
+Index 426 - Vivacious Etude
+  casting_time: 32 -> 16
+  valid targets: SelfTarget -> SelfTarget, PartyMember
+
+Index 427 - Quick Etude
+  casting_time: 32 -> 16
+  valid targets: SelfTarget -> SelfTarget, PartyMember
+
+Index 428 - Learned Etude
+  casting_time: 32 -> 16
+  valid targets: SelfTarget -> SelfTarget, PartyMember
+
+Index 429 - Spirited Etude
+  casting_time: 32 -> 16
+  valid targets: SelfTarget -> SelfTarget, PartyMember
+
+Index 430 - Enchanting Etude
+  casting_time: 32 -> 16
+  valid targets: SelfTarget -> SelfTarget, PartyMember
+
+Index 431 - Herculean Etude
+  casting_time: 32 -> 16
+  valid targets: SelfTarget -> SelfTarget, PartyMember
+
+Index 432 - Uncanny Etude
+  casting_time: 32 -> 16
+  valid targets: SelfTarget -> SelfTarget, PartyMember
+
+Index 433 - Vital Etude
+  casting_time: 32 -> 16
+  valid targets: SelfTarget -> SelfTarget, PartyMember
+
+Index 434 - Swift Etude
+  casting_time: 32 -> 16
+  valid targets: SelfTarget -> SelfTarget, PartyMember
+
+Index 435 - Sage Etude
+  casting_time: 32 -> 16
+  valid targets: SelfTarget -> SelfTarget, PartyMember
+
+Index 436 - Logical Etude
+  casting_time: 32 -> 16
+  valid targets: SelfTarget -> SelfTarget, PartyMember
+
+Index 437 - Bewitching Etude
+  casting_time: 32 -> 16
+  valid targets: SelfTarget -> SelfTarget, PartyMember
+
+Index 468 - Foe Sirvente
+  casting_time: 32 -> 16
+  valid targets: SelfTarget -> SelfTarget, PartyMember
+
+Index 469 - Adventurer's Dirge
+  casting_time: 32 -> 16
+  valid targets: SelfTarget -> SelfTarget, PartyMember

@@ -1,0 +1,2051 @@
+bytes_per_list: 140
+flip_bytes: false
+lists:
+  0:
+  - string: （ヌル）
+  1:
+  - string: ケアル
+  2:
+  - string: ケアルII
+  3:
+  - string: ケアルIII
+  4:
+  - string: ケアルIV
+  5:
+  - string: ケアルV
+  6:
+  - string: ケアルVI
+  7:
+  - string: ケアルガ
+  8:
+  - string: ケアルガII
+  9:
+  - string: ケアルガIII
+  10:
+  - string: ケアルガIV
+  11:
+  - string: ケアルガV
+  12:
+  - string: レイズ
+  13:
+  - string: レイズII
+  14:
+  - string: ポイゾナ
+  15:
+  - string: パラナ
+  16:
+  - string: ブライナ
+  17:
+  - string: サイレナ
+  18:
+  - string: ストナ
+  19:
+  - string: ウィルナ
+  20:
+  - string: カーズナ
+  21:
+  - string: ホーリー
+  22:
+  - string: ホーリーII
+  23:
+  - string: ディア
+  24:
+  - string: ディアII
+  25:
+  - string: ディアIII
+  26:
+  - string: ディアIV
+  27:
+  - string: ディアV
+  28:
+  - string: バニシュ
+  29:
+  - string: バニシュII
+  30:
+  - string: バニシュIII
+  31:
+  - string: バニシュIV
+  32:
+  - string: バニシュV
+  33:
+  - string: ディアガ
+  34:
+  - string: ディアガII
+  35:
+  - string: ディアガIII
+  36:
+  - string: ディアガIV
+  37:
+  - string: ディアガV
+  38:
+  - string: バニシュガ
+  39:
+  - string: バニシュガII
+  40:
+  - string: バニシュガIII
+  41:
+  - string: バニシュガIV
+  42:
+  - string: バニシュガV
+  43:
+  - string: プロテス
+  44:
+  - string: プロテスII
+  45:
+  - string: プロテスIII
+  46:
+  - string: プロテスIV
+  47:
+  - string: プロテスV
+  48:
+  - string: シェル
+  49:
+  - string: シェルII
+  50:
+  - string: シェルIII
+  51:
+  - string: シェルIV
+  52:
+  - string: シェルV
+  53:
+  - string: ブリンク
+  54:
+  - string: ストンスキン
+  55:
+  - string: アクアベール
+  56:
+  - string: スロウ
+  57:
+  - string: ヘイスト
+  58:
+  - string: パライズ
+  59:
+  - string: サイレス
+  60:
+  - string: バファイ
+  61:
+  - string: バブリザ
+  62:
+  - string: バエアロ
+  63:
+  - string: バストン
+  64:
+  - string: バサンダ
+  65:
+  - string: バウォタ
+  66:
+  - string: バファイラ
+  67:
+  - string: バブリザラ
+  68:
+  - string: バエアロラ
+  69:
+  - string: バストンラ
+  70:
+  - string: バサンダラ
+  71:
+  - string: バウォタラ
+  72:
+  - string: バスリプル
+  73:
+  - string: バポイズン
+  74:
+  - string: バパライズ
+  75:
+  - string: バブライン
+  76:
+  - string: バサイレス
+  77:
+  - string: バブレイク
+  78:
+  - string: バウィルス
+  79:
+  - string: スロウII
+  80:
+  - string: パライズII
+  81:
+  - string: リコールジャグ
+  82:
+  - string: リコールパシュ
+  83:
+  - string: リコールメリファ
+  84:
+  - string: バアムネジア
+  85:
+  - string: バアムネジラ
+  86:
+  - string: バスリプラ
+  87:
+  - string: バポイゾラ
+  88:
+  - string: バパライラ
+  89:
+  - string: バブライラ
+  90:
+  - string: バサイレラ
+  91:
+  - string: バブレクラ
+  92:
+  - string: バウィルラ
+  93:
+  - string: ケアルラ
+  94:
+  - string: サクリファイス
+  95:
+  - string: エスナ
+  96:
+  - string: オースピス
+  97:
+  - string: リアクト
+  98:
+  - string: リポーズ
+  99:
+  - string: 砂塵の陣
+  100:
+  - string: エンファイア
+  101:
+  - string: エンブリザド
+  102:
+  - string: エンエアロ
+  103:
+  - string: エンストーン
+  104:
+  - string: エンサンダー
+  105:
+  - string: エンウォータ
+  106:
+  - string: ファランクス
+  107:
+  - string: ファランクスII
+  108:
+  - string: リジェネ
+  109:
+  - string: リフレシュ
+  110:
+  - string: リジェネII
+  111:
+  - string: リジェネIII
+  112:
+  - string: フラッシュ
+  113:
+  - string: 豪雨の陣
+  114:
+  - string: 烈風の陣
+  115:
+  - string: 熱波の陣
+  116:
+  - string: 吹雪の陣
+  117:
+  - string: 疾雷の陣
+  118:
+  - string: 妖霧の陣
+  119:
+  - string: 極光の陣
+  120:
+  - string: テレポヨト
+  121:
+  - string: テレポルテ
+  122:
+  - string: テレポホラ
+  123:
+  - string: テレポデム
+  124:
+  - string: テレポメア
+  125:
+  - string: プロテア
+  126:
+  - string: プロテアII
+  127:
+  - string: プロテアIII
+  128:
+  - string: プロテアIV
+  129:
+  - string: プロテアV
+  130:
+  - string: シェルラ
+  131:
+  - string: シェルラII
+  132:
+  - string: シェルラIII
+  133:
+  - string: シェルラIV
+  134:
+  - string: シェルラV
+  135:
+  - string: リレイズ
+  136:
+  - string: インビジ
+  137:
+  - string: スニーク
+  138:
+  - string: デオード
+  139:
+  - string: テレポヴァズ
+  140:
+  - string: レイズIII
+  141:
+  - string: リレイズII
+  142:
+  - string: リレイズIII
+  143:
+  - string: イレース
+  144:
+  - string: ファイア
+  145:
+  - string: ファイアII
+  146:
+  - string: ファイアIII
+  147:
+  - string: ファイアIV
+  148:
+  - string: ファイアV
+  149:
+  - string: ブリザド
+  150:
+  - string: ブリザドII
+  151:
+  - string: ブリザドIII
+  152:
+  - string: ブリザドIV
+  153:
+  - string: ブリザドV
+  154:
+  - string: エアロ
+  155:
+  - string: エアロII
+  156:
+  - string: エアロIII
+  157:
+  - string: エアロIV
+  158:
+  - string: エアロV
+  159:
+  - string: ストーン
+  160:
+  - string: ストーンII
+  161:
+  - string: ストーンIII
+  162:
+  - string: ストーンIV
+  163:
+  - string: ストーンV
+  164:
+  - string: サンダー
+  165:
+  - string: サンダーII
+  166:
+  - string: サンダーIII
+  167:
+  - string: サンダーIV
+  168:
+  - string: サンダーV
+  169:
+  - string: ウォータ
+  170:
+  - string: ウォータII
+  171:
+  - string: ウォータIII
+  172:
+  - string: ウォータIV
+  173:
+  - string: ウォータV
+  174:
+  - string: ファイガ
+  175:
+  - string: ファイガII
+  176:
+  - string: ファイガIII
+  177:
+  - string: ファイガIV
+  178:
+  - string: ファイガV
+  179:
+  - string: ブリザガ
+  180:
+  - string: ブリザガII
+  181:
+  - string: ブリザガIII
+  182:
+  - string: ブリザガIV
+  183:
+  - string: ブリザガV
+  184:
+  - string: エアロガ
+  185:
+  - string: エアロガII
+  186:
+  - string: エアロガIII
+  187:
+  - string: エアロガIV
+  188:
+  - string: エアロガV
+  189:
+  - string: ストンガ
+  190:
+  - string: ストンガII
+  191:
+  - string: ストンガIII
+  192:
+  - string: ストンガIV
+  193:
+  - string: ストンガV
+  194:
+  - string: サンダガ
+  195:
+  - string: サンダガII
+  196:
+  - string: サンダガIII
+  197:
+  - string: サンダガIV
+  198:
+  - string: サンダガV
+  199:
+  - string: ウォタガ
+  200:
+  - string: ウォタガII
+  201:
+  - string: ウォタガIII
+  202:
+  - string: ウォタガIV
+  203:
+  - string: ウォタガV
+  204:
+  - string: フレア
+  205:
+  - string: フレアII
+  206:
+  - string: フリーズ
+  207:
+  - string: フリーズII
+  208:
+  - string: トルネド
+  209:
+  - string: トルネドII
+  210:
+  - string: クエイク
+  211:
+  - string: クエイクII
+  212:
+  - string: バースト
+  213:
+  - string: バーストII
+  214:
+  - string: フラッド
+  215:
+  - string: フラッドII
+  216:
+  - string: グラビデ
+  217:
+  - string: グラビデII
+  218:
+  - string: メテオ
+  219:
+  - string: コメット
+  220:
+  - string: ポイズン
+  221:
+  - string: ポイズンII
+  222:
+  - string: ポイズンIII
+  223:
+  - string: ポイズンIV
+  224:
+  - string: ポイズンV
+  225:
+  - string: ポイゾガ
+  226:
+  - string: ポイゾガII
+  227:
+  - string: ポイゾガIII
+  228:
+  - string: ポイゾガIV
+  229:
+  - string: ポイゾガV
+  230:
+  - string: バイオ
+  231:
+  - string: バイオII
+  232:
+  - string: バイオIII
+  233:
+  - string: バイオIV
+  234:
+  - string: バイオV
+  235:
+  - string: バーン
+  236:
+  - string: フロスト
+  237:
+  - string: チョーク
+  238:
+  - string: ラスプ
+  239:
+  - string: ショック
+  240:
+  - string: ドラウン
+  241:
+  - string: リトレース
+  242:
+  - string: アブゾアキュル
+  243:
+  - string: アブゾアトリ
+  244:
+  - string: メテオII
+  245:
+  - string: ドレイン
+  246:
+  - string: ドレインII
+  247:
+  - string: アスピル
+  248:
+  - string: アスピルII
+  249:
+  - string: ブレイズスパイク
+  250:
+  - string: アイススパイク
+  251:
+  - string: ショックスパイク
+  252:
+  - string: スタン
+  253:
+  - string: スリプル
+  254:
+  - string: ブライン
+  255:
+  - string: ブレイク
+  256:
+  - string: ウィルス
+  257:
+  - string: カーズ
+  258:
+  - string: バインド
+  259:
+  - string: スリプルII
+  260:
+  - string: ディスペル
+  261:
+  - string: デジョン
+  262:
+  - string: デジョンII
+  263:
+  - string: エスケプ
+  264:
+  - string: トラクタ
+  265:
+  - string: トラクタII
+  266:
+  - string: アブゾースト
+  267:
+  - string: アブゾデック
+  268:
+  - string: アブゾバイト
+  269:
+  - string: アブゾアジル
+  270:
+  - string: アブゾイン
+  271:
+  - string: アブゾマイン
+  272:
+  - string: アブゾカリス
+  273:
+  - string: スリプガ
+  274:
+  - string: スリプガII
+  275:
+  - string: アブゾタック
+  276:
+  - string: ブラインII
+  277:
+  - string: ドレッドスパイク
+  278:
+  - string: 土門の計
+  279:
+  - string: 水門の計
+  280:
+  - string: 風門の計
+  281:
+  - string: 火門の計
+  282:
+  - string: 氷門の計
+  283:
+  - string: 雷門の計
+  284:
+  - string: 闇門の計
+  285:
+  - string: 光門の計
+  286:
+  - string: アドル
+  287:
+  - string: 虚誘掩殺の策
+  288:
+  - string: 火精霊召喚
+  289:
+  - string: 氷精霊召喚
+  290:
+  - string: 風精霊召喚
+  291:
+  - string: 土精霊召喚
+  292:
+  - string: 雷精霊召喚
+  293:
+  - string: 水精霊召喚
+  294:
+  - string: 光精霊召喚
+  295:
+  - string: 闇精霊召喚
+  296:
+  - string: カーバンクル召喚
+  297:
+  - string: フェンリル召喚
+  298:
+  - string: イフリート召喚
+  299:
+  - string: タイタン召喚
+  300:
+  - string: リヴァイアサン召喚
+  301:
+  - string: ガルーダ召喚
+  302:
+  - string: シヴァ召喚
+  303:
+  - string: ラムウ召喚
+  304:
+  - string: ディアボロス召喚
+  305:
+  - string: オーディン召喚
+  306:
+  - string: アレキサンダー召喚
+  307:
+  - string: ケット・シー召喚
+  308:
+  - string: 悪事千里の策
+  309:
+  - string: 暗中飛躍の策
+  310:
+  - string: エンライト
+  311:
+  - string: エンダーク
+  312:
+  - string: エンファイアII
+  313:
+  - string: エンブリザドII
+  314:
+  - string: エンエアロII
+  315:
+  - string: エンストーンII
+  316:
+  - string: エンサンダーII
+  317:
+  - string: エンウォータII
+  318:
+  - string: 物見の術:壱
+  319:
+  - string: 哀車の術:壱
+  320:
+  - string: 火遁の術:壱
+  321:
+  - string: 火遁の術:弐
+  322:
+  - string: 火遁の術:参
+  323:
+  - string: 氷遁の術:壱
+  324:
+  - string: 氷遁の術:弐
+  325:
+  - string: 氷遁の術:参
+  326:
+  - string: 風遁の術:壱
+  327:
+  - string: 風遁の術:弐
+  328:
+  - string: 風遁の術:参
+  329:
+  - string: 土遁の術:壱
+  330:
+  - string: 土遁の術:弐
+  331:
+  - string: 土遁の術:参
+  332:
+  - string: 雷遁の術:壱
+  333:
+  - string: 雷遁の術:弐
+  334:
+  - string: 雷遁の術:参
+  335:
+  - string: 水遁の術:壱
+  336:
+  - string: 水遁の術:弐
+  337:
+  - string: 水遁の術:参
+  338:
+  - string: 空蝉の術:壱
+  339:
+  - string: 空蝉の術:弐
+  340:
+  - string: 空蝉の術:参
+  341:
+  - string: 呪縛の術:壱
+  342:
+  - string: 呪縛の術:弐
+  343:
+  - string: 呪縛の術:参
+  344:
+  - string: 捕縄の術:壱
+  345:
+  - string: 捕縄の術:弐
+  346:
+  - string: 捕縄の術:参
+  347:
+  - string: 暗闇の術:壱
+  348:
+  - string: 暗闇の術:弐
+  349:
+  - string: 暗闇の術:参
+  350:
+  - string: 毒盛の術:壱
+  351:
+  - string: 毒盛の術:弐
+  352:
+  - string: 毒盛の術:参
+  353:
+  - string: 遁甲の術:壱
+  354:
+  - string: 遁甲の術:弐
+  355:
+  - string: セイレーン召喚
+  356:
+  - string: パライガ
+  357:
+  - string: スロウガ
+  358:
+  - string: ヘイスガ
+  359:
+  - string: サイレガ
+  360:
+  - string: ディスペガ
+  361:
+  - string: ブライガ
+  362:
+  - string: バインガ
+  363:
+  - string: スリプガ
+  364:
+  - string: スリプガII
+  365:
+  - string: ブレクガ
+  366:
+  - string: グラビガ
+  367:
+  - string: デス
+  368:
+  - string: 魔物のレクイエム
+  369:
+  - string: 魔物のレクイエムII
+  370:
+  - string: 魔物のレクイエムIII
+  371:
+  - string: 魔物のレクイエムIV
+  372:
+  - string: 魔物のレクイエムV
+  373:
+  - string: 魔物のレクイエムVI
+  374:
+  - string: 魔物のレクイエムVII
+  375:
+  - string: 魔物のレクイエムVIII
+  376:
+  - string: 魔物達のララバイ
+  377:
+  - string: 魔物達のララバイII
+  378:
+  - string: 戦士達のピーアン
+  379:
+  - string: 戦士達のピーアンII
+  380:
+  - string: 戦士達のピーアンIII
+  381:
+  - string: 戦士達のピーアンIV
+  382:
+  - string: 戦士達のピーアンV
+  383:
+  - string: 戦士達のピーアンVI
+  384:
+  - string: 戦士達のピーアンVII
+  385:
+  - string: 戦士達のピーアンVIII
+  386:
+  - string: 魔道士のバラード
+  387:
+  - string: 魔道士のバラードII
+  388:
+  - string: 魔道士のバラードIII
+  389:
+  - string: 重装騎兵のミンネ
+  390:
+  - string: 重装騎兵のミンネII
+  391:
+  - string: 重装騎兵のミンネIII
+  392:
+  - string: 重装騎兵のミンネIV
+  393:
+  - string: 重装騎兵のミンネV
+  394:
+  - string: 猛者のメヌエット
+  395:
+  - string: 猛者のメヌエットII
+  396:
+  - string: 猛者のメヌエットIII
+  397:
+  - string: 猛者のメヌエットIV
+  398:
+  - string: 猛者のメヌエットV
+  399:
+  - string: 剣闘士のマドリガル
+  400:
+  - string: 剣豪のマドリガル
+  401:
+  - string: 狩人のプレリュード
+  402:
+  - string: 弓師のプレリュード
+  403:
+  - string: 闘羊士のマンボ
+  404:
+  - string: 闘龍士のマンボ
+  405:
+  - string: 鶏のオーバード
+  406:
+  - string: 薬草のパストラル
+  407:
+  - string: チョコボのハミング
+  408:
+  - string: 光明のファンタジア
+  409:
+  - string: 小話のオペレッタ
+  410:
+  - string: 腹話のオペレッタ
+  411:
+  - string: 道化のオペレッタ
+  412:
+  - string: 黄金のカプリチオ
+  413:
+  - string: 献身のセレナーデ
+  414:
+  - string: 破邪のロンド
+  415:
+  - string: ゴブリンのガボット
+  416:
+  - string: サボテンダーフーガ
+  417:
+  - string: 栄典の戴冠マーチ
+  418:
+  - string: 冷静と情熱のアリア
+  419:
+  - string: 無敵の進撃マーチ
+  420:
+  - string: 栄光の凱旋マーチ
+  421:
+  - string: 戦場のエレジー
+  422:
+  - string: 修羅のエレジー
+  423:
+  - string: 地獄のエレジー
+  424:
+  - string: 剛力のエチュード
+  425:
+  - string: 器用のエチュード
+  426:
+  - string: 元気のエチュード
+  427:
+  - string: 機敏のエチュード
+  428:
+  - string: 知恵のエチュード
+  429:
+  - string: 精神のエチュード
+  430:
+  - string: 魅了のエチュード
+  431:
+  - string: 怪力のエチュード
+  432:
+  - string: 妙技のエチュード
+  433:
+  - string: 活力のエチュード
+  434:
+  - string: 俊敏のエチュード
+  435:
+  - string: 英知のエチュード
+  436:
+  - string: 理力のエチュード
+  437:
+  - string: 魅惑のエチュード
+  438:
+  - string: 耐火カロル第一楽章
+  439:
+  - string: 耐寒カロル第一楽章
+  440:
+  - string: 耐風カロル第一楽章
+  441:
+  - string: 耐震カロル第一楽章
+  442:
+  - string: 耐電カロル第一楽章
+  443:
+  - string: 耐波カロル第一楽章
+  444:
+  - string: 耐光カロル第一楽章
+  445:
+  - string: 耐闇カロル第一楽章
+  446:
+  - string: 耐火カロル第二楽章
+  447:
+  - string: 耐寒カロル第二楽章
+  448:
+  - string: 耐風カロル第二楽章
+  449:
+  - string: 耐震カロル第二楽章
+  450:
+  - string: 耐電カロル第二楽章
+  451:
+  - string: 耐波カロル第二楽章
+  452:
+  - string: 耐光カロル第二楽章
+  453:
+  - string: 耐闇カロル第二楽章
+  454:
+  - string: 炎のスレノディ
+  455:
+  - string: 氷のスレノディ
+  456:
+  - string: 風のスレノディ
+  457:
+  - string: 土のスレノディ
+  458:
+  - string: 雷のスレノディ
+  459:
+  - string: 水のスレノディ
+  460:
+  - string: 光のスレノディ
+  461:
+  - string: 闇のスレノディ
+  462:
+  - string: 魔法のフィナーレ
+  463:
+  - string: 魔物のララバイ
+  464:
+  - string: 女神のヒムヌス
+  465:
+  - string: チョコボのマズルカ
+  466:
+  - string: 乙女のヴィルレー
+  467:
+  - string: ラプトルのマズルカ
+  468:
+  - string: 魔物のシルベント
+  469:
+  - string: 冒険者のダージュ
+  470:
+  - string: 警戒のスケルツォ
+  471:
+  - string: 魔物のララバイII
+  472:
+  - string: 恋情のノクターン
+  473:
+  - string: リフレシュII
+  474:
+  - string: ケアルラII
+  475:
+  - string: ケアルラIII
+  476:
+  - string: クルセード
+  477:
+  - string: リジェネIV
+  478:
+  - string: オーラ
+  479:
+  - string: アディスト
+  480:
+  - string: アディデック
+  481:
+  - string: アディバイト
+  482:
+  - string: アディアジル
+  483:
+  - string: アディイン
+  484:
+  - string: アディマイン
+  485:
+  - string: アディカリス
+  486:
+  - string: ゲインスト
+  487:
+  - string: ゲインデック
+  488:
+  - string: ゲインバイト
+  489:
+  - string: ゲインアジル
+  490:
+  - string: ゲインイン
+  491:
+  - string: ゲインマイン
+  492:
+  - string: ゲインカリス
+  493:
+  - string: ストライ
+  494:
+  - string: アレイズ
+  495:
+  - string: 鼓舞激励の策
+  496:
+  - string: ファイジャ
+  497:
+  - string: ブリザジャ
+  498:
+  - string: エアロジャ
+  499:
+  - string: ストンジャ
+  500:
+  - string: サンダジャ
+  501:
+  - string: ウォタジャ
+  502:
+  - string: メルトン
+  503:
+  - string: インパクト
+  504:
+  - string: リジェネV
+  505:
+  - string: 月下の術:壱
+  506:
+  - string: 夜陰の術:壱
+  507:
+  - string: 妙手の術:壱
+  508:
+  - string: 幽林の術:壱
+  509:
+  - string: 活火の術:壱
+  510:
+  - string: 身替の術:壱
+  511:
+  - string: ヘイストII
+  512:
+  - string: (Empty)
+  513:
+  - string: ベノムシェル
+  514:
+  - string: (Empty)
+  515:
+  - string: メイルシュトロム
+  516:
+  - string: (Empty)
+  517:
+  - string: メタルボディ
+  518:
+  - string: (Empty)
+  519:
+  - string: S.ドライバー
+  520:
+  - string: (Empty)
+  521:
+  - string: MP吸収キッス
+  522:
+  - string: デスレイ
+  523:
+  - string: (Empty)
+  524:
+  - string: 土竜巻
+  525:
+  - string: (Empty)
+  526:
+  - string: (Empty)
+  527:
+  - string: 怒りの一撃
+  528:
+  - string: (Empty)
+  529:
+  - string: メッタ打ち
+  530:
+  - string: リフュエリング
+  531:
+  - string: アイスブレイク
+  532:
+  - string: B.シュトラール
+  533:
+  - string: 自爆
+  534:
+  - string: 神秘の光
+  535:
+  - string: コールドウェーブ
+  536:
+  - string: ポイズンブレス
+  537:
+  - string: スティンキングガス
+  538:
+  - string: メメントモーリ
+  539:
+  - string: テラータッチ
+  540:
+  - string: スパイナルクリーブ
+  541:
+  - string: ブラッドセイバー
+  542:
+  - string: 消化
+  543:
+  - string: M.バイト
+  544:
+  - string: カースドスフィア
+  545:
+  - string: シックルスラッシュ
+  546:
+  - string: (Empty)
+  547:
+  - string: コクーン
+  548:
+  - string: F.ホールド
+  549:
+  - string: 花粉
+  550:
+  - string: (Empty)
+  551:
+  - string: パワーアタック
+  552:
+  - string: (Empty)
+  553:
+  - string: (Empty)
+  554:
+  - string: デスシザース
+  555:
+  - string: 磁鉄粉
+  556:
+  - string: (Empty)
+  557:
+  - string: アイズオンミー
+  558:
+  - string: (Empty)
+  559:
+  - string: (Empty)
+  560:
+  - string: F.リップ
+  561:
+  - string: フライトフルロア
+  562:
+  - string: (Empty)
+  563:
+  - string: ヘカトンウェーブ
+  564:
+  - string: ボディプレス
+  565:
+  - string: R.ブレス
+  566:
+  - string: (Empty)
+  567:
+  - string: ヘルダイブ
+  568:
+  - string: (Empty)
+  569:
+  - string: ジェットストリーム
+  570:
+  - string: 吸血
+  571:
+  - string: (Empty)
+  572:
+  - string: サウンドブラスト
+  573:
+  - string: フェザーティックル
+  574:
+  - string: フェザーバリア
+  575:
+  - string: ジェタチュラ
+  576:
+  - string: ヤーン
+  577:
+  - string: フットキック
+  578:
+  - string: ワイルドカロット
+  579:
+  - string: 吸印
+  580:
+  - string: (Empty)
+  581:
+  - string: いやしの風
+  582:
+  - string: カオティックアイ
+  583:
+  - string: (Empty)
+  584:
+  - string: シープソング
+  585:
+  - string: ラムチャージ
+  586:
+  - string: (Empty)
+  587:
+  - string: クローサイクロン
+  588:
+  - string: ロウイン
+  589:
+  - string: 次元殺
+  590:
+  - string: (Empty)
+  591:
+  - string: 火炎の息
+  592:
+  - string: ブランクゲイズ
+  593:
+  - string: マジックフルーツ
+  594:
+  - string: アッパーカット
+  595:
+  - string: 針千本
+  596:
+  - string: まつぼっくり爆弾
+  597:
+  - string: スプラウトスマック
+  598:
+  - string: サペリフィック
+  599:
+  - string: マヨイタケ
+  600:
+  - string: (Empty)
+  601:
+  - string: (Empty)
+  602:
+  - string: (Empty)
+  603:
+  - string: 種まき
+  604:
+  - string: 臭い息
+  605:
+  - string: ガイストウォール
+  606:
+  - string: アーフルアイ
+  607:
+  - string: (Empty)
+  608:
+  - string: フロストブレス
+  609:
+  - string: (Empty)
+  610:
+  - string: 超低周波
+  611:
+  - string: ディセバーメント
+  612:
+  - string: A.バースト
+  613:
+  - string: 反応炉冷却
+  614:
+  - string: セイリーンコート
+  615:
+  - string: プラズマチャージ
+  616:
+  - string: テンポラルシフト
+  617:
+  - string: バーチカルクリーヴ
+  618:
+  - string: 炸裂弾
+  619:
+  - string: (Empty)
+  620:
+  - string: バトルダンス
+  621:
+  - string: サンドスプレー
+  622:
+  - string: グランドスラム
+  623:
+  - string: ヘッドバット
+  624:
+  - string: (Empty)
+  625:
+  - string: (Empty)
+  626:
+  - string: 爆弾投げ
+  627:
+  - string: (Empty)
+  628:
+  - string: フライパン
+  629:
+  - string: F.ヒッププレス
+  630:
+  - string: (Empty)
+  631:
+  - string: ハイドロショット
+  632:
+  - string: 金剛身
+  633:
+  - string: 吶喊
+  634:
+  - string: 贖罪の光
+  635:
+  - string: (Empty)
+  636:
+  - string: ワームアップ
+  637:
+  - string: ファイアースピット
+  638:
+  - string: 羽根吹雪
+  639:
+  - string: (Empty)
+  640:
+  - string: テールスラップ
+  641:
+  - string: H.バラージ
+  642:
+  - string: ねたみ種
+  643:
+  - string: キャノンボール
+  644:
+  - string: マインドブラスト
+  645:
+  - string: イグジュビエーション
+  646:
+  - string: マジックハンマー
+  647:
+  - string: ゼファーマント
+  648:
+  - string: リガージテーション
+  649:
+  - string: (Empty)
+  650:
+  - string: シードスプレー
+  651:
+  - string: コローシブウーズ
+  652:
+  - string: スパイラルスピン
+  653:
+  - string: アシュラクロー
+  654:
+  - string: サブゼロスマッシュ
+  655:
+  - string: 共鳴
+  656:
+  - string: アクリッドストリーム
+  657:
+  - string: ブレーズバウンド
+  658:
+  - string: P.エンブレイス
+  659:
+  - string: D.ロア
+  660:
+  - string: C.ディスチャージ
+  661:
+  - string: 鯨波
+  662:
+  - string: バッテリーチャージ
+  663:
+  - string: リーフストーム
+  664:
+  - string: リジェネレーション
+  665:
+  - string: ファイナルスピア
+  666:
+  - string: ゴブリンラッシュ
+  667:
+  - string: バニティダイブ
+  668:
+  - string: マジックバリア
+  669:
+  - string: 怒りの旋風
+  670:
+  - string: ベンシクタイフーン
+  671:
+  - string: オーロラルドレープ
+  672:
+  - string: オスモーシス
+  673:
+  - string: 四連突
+  674:
+  - string: ファンタッド
+  675:
+  - string: サーマルパルス
+  676:
+  - string: (Empty)
+  677:
+  - string: エンプティスラッシュ
+  678:
+  - string: 夢想花
+  679:
+  - string: オカルテーション
+  680:
+  - string: チャージドホイスカー
+  681:
+  - string: 虚無の風
+  682:
+  - string: デルタスラスト
+  683:
+  - string: みんなの怨み
+  684:
+  - string: リービンウィンド
+  685:
+  - string: 牙門
+  686:
+  - string: モータルレイ
+  687:
+  - string: 水風船爆弾
+  688:
+  - string: 重い一撃
+  689:
+  - string: ダークオーブ
+  690:
+  - string: ホワイトウィンド
+  691:
+  - string: (Empty)
+  692:
+  - string: サドンランジ
+  693:
+  - string: クアドラストライク
+  694:
+  - string: ヴェイパースプレー
+  695:
+  - string: サンダーブレス
+  696:
+  - string: カウンタースタンス
+  697:
+  - string: 槍玉
+  698:
+  - string: ウィンドブレス
+  699:
+  - string: 偃月刃
+  700:
+  - string: N.メディテイト
+  701:
+  - string: T.アップヒーヴ
+  702:
+  - string: R.デルージュ
+  703:
+  - string: エンバームアース
+  704:
+  - string: パラライズトライアド
+  705:
+  - string: ファウルウォーター
+  706:
+  - string: グルーティナスダート
+  707:
+  - string: レテナグレア
+  708:
+  - string: サブダックション
+  709:
+  - string: T.アッサルト
+  710:
+  - string: エラチックフラッター
+  711:
+  - string: レストラル
+  712:
+  - string: レールキャノン
+  713:
+  - string: ディフュージョンレイ
+  714:
+  - string: シンカードリル
+  715:
+  - string: モルトプルメイジ
+  716:
+  - string: ネクターデルージュ
+  717:
+  - string: スイープガウジ
+  718:
+  - string: A.ライベーション
+  719:
+  - string: シアリングテンペスト
+  720:
+  - string: スペクトラルフロー
+  721:
+  - string: アンビルライトニング
+  722:
+  - string: エントゥーム
+  723:
+  - string: サウリアンスライド
+  724:
+  - string: ポーリングサルヴォ
+  725:
+  - string: B.フルゴア
+  726:
+  - string: スカウリングスペイト
+  727:
+  - string: サイレントストーム
+  728:
+  - string: テネブラルクラッシュ
+  729:
+  - string: (Empty)
+  730:
+  - string: (Empty)
+  731:
+  - string: (Empty)
+  732:
+  - string: (Empty)
+  733:
+  - string: (Empty)
+  734:
+  - string: (Empty)
+  735:
+  - string: (Empty)
+  736:
+  - string: サンダーボルト
+  737:
+  - string: 甲羅強化
+  738:
+  - string: アブソルートテラー
+  739:
+  - string: ゲーツオブハデス
+  740:
+  - string: トゥールビヨン
+  741:
+  - string: ポーラーブルワーク
+  742:
+  - string: ビルジストーム
+  743:
+  - string: ブラッドレイク
+  744:
+  - string: D.ワールウィンド
+  745:
+  - string: カルカリアンヴァーヴ
+  746:
+  - string: ブリスターローア
+  747:
+  - string: アップルート
+  748:
+  - string: クラッシュサンダー
+  749:
+  - string: ポラーロア
+  750:
+  - string: マイティガード
+  751:
+  - string: クルエルジョーク
+  752:
+  - string: セスプール
+  753:
+  - string: テーリングガスト
+  754:
+  - string: (Empty)
+  755:
+  - string: (Empty)
+  756:
+  - string: (Empty)
+  757:
+  - string: (Empty)
+  758:
+  - string: (Empty)
+  759:
+  - string: (Empty)
+  760:
+  - string: (Empty)
+  761:
+  - string: (Empty)
+  762:
+  - string: (Empty)
+  763:
+  - string: (Empty)
+  764:
+  - string: (Empty)
+  765:
+  - string: (Empty)
+  766:
+  - string: (Empty)
+  767:
+  - string: (Empty)
+  768:
+  - string: インデリジェネ
+  769:
+  - string: インデポイズン
+  770:
+  - string: インデリフレシュ
+  771:
+  - string: インデヘイスト
+  772:
+  - string: インデスト
+  773:
+  - string: インデデック
+  774:
+  - string: インデバイト
+  775:
+  - string: インデアジル
+  776:
+  - string: インデイン
+  777:
+  - string: インデマイン
+  778:
+  - string: インデカリス
+  779:
+  - string: インデフューリー
+  780:
+  - string: インデバリア
+  781:
+  - string: インデアキュメン
+  782:
+  - string: インデフェンド
+  783:
+  - string: インデプレサイス
+  784:
+  - string: インデヴォイダンス
+  785:
+  - string: インデフォーカス
+  786:
+  - string: インデアトゥーン
+  787:
+  - string: インデウィルト
+  788:
+  - string: インデフレイル
+  789:
+  - string: インデフェイド
+  790:
+  - string: インデマレーズ
+  791:
+  - string: インデスリップ
+  792:
+  - string: インデトーパー
+  793:
+  - string: インデヴェックス
+  794:
+  - string: インデランゴール
+  795:
+  - string: インデスロウ
+  796:
+  - string: インデパライズ
+  797:
+  - string: インデグラビデ
+  798:
+  - string: ジオリジェネ
+  799:
+  - string: ジオポイズン
+  800:
+  - string: ジオリフレシュ
+  801:
+  - string: ジオヘイスト
+  802:
+  - string: ジオスト
+  803:
+  - string: ジオデック
+  804:
+  - string: ジオバイト
+  805:
+  - string: ジオアジル
+  806:
+  - string: ジオイン
+  807:
+  - string: ジオマイン
+  808:
+  - string: ジオカリス
+  809:
+  - string: ジオフューリー
+  810:
+  - string: ジオバリア
+  811:
+  - string: ジオアキュメン
+  812:
+  - string: ジオフェンド
+  813:
+  - string: ジオプレサイス
+  814:
+  - string: ジオヴォイダンス
+  815:
+  - string: ジオフォーカス
+  816:
+  - string: ジオアトゥーン
+  817:
+  - string: ジオウィルト
+  818:
+  - string: ジオフレイル
+  819:
+  - string: ジオフェイド
+  820:
+  - string: ジオマレーズ
+  821:
+  - string: ジオスリップ
+  822:
+  - string: ジオトーパー
+  823:
+  - string: ジオヴェックス
+  824:
+  - string: ジオランゴール
+  825:
+  - string: ジオスロウ
+  826:
+  - string: ジオパライズ
+  827:
+  - string: ジオグラビデ
+  828:
+  - string: ファイラ
+  829:
+  - string: ファイラII
+  830:
+  - string: ブリザラ
+  831:
+  - string: ブリザラII
+  832:
+  - string: エアロラ
+  833:
+  - string: エアロラII
+  834:
+  - string: ストンラ
+  835:
+  - string: ストンラII
+  836:
+  - string: サンダラ
+  837:
+  - string: サンダラII
+  838:
+  - string: ウォタラ
+  839:
+  - string: ウォタラII
+  840:
+  - string: フォイル
+  841:
+  - string: ディストラ
+  842:
+  - string: ディストラII
+  843:
+  - string: フラズル
+  844:
+  - string: フラズルII
+  845:
+  - string: スナップ
+  846:
+  - string: スナップII
+  847:
+  - string: アトモス召喚
+  848:
+  - string: リレイズIV
+  849:
+  - string: ファイアVI
+  850:
+  - string: ブリザドVI
+  851:
+  - string: エアロVI
+  852:
+  - string: ストーンVI
+  853:
+  - string: サンダーVI
+  854:
+  - string: ウォータVI
+  855:
+  - string: エンライトII
+  856:
+  - string: エンダークII
+  857:
+  - string: 砂塵の陣II
+  858:
+  - string: 豪雨の陣II
+  859:
+  - string: 烈風の陣II
+  860:
+  - string: 熱波の陣II
+  861:
+  - string: 吹雪の陣II
+  862:
+  - string: 疾雷の陣II
+  863:
+  - string: 妖霧の陣II
+  864:
+  - string: 極光の陣II
+  865:
+  - string: ファイラIII
+  866:
+  - string: ブリザラIII
+  867:
+  - string: エアロラIII
+  868:
+  - string: ストンラIII
+  869:
+  - string: サンダラIII
+  870:
+  - string: ウォタラIII
+  871:
+  - string: 炎のスレノディII
+  872:
+  - string: 氷のスレノディII
+  873:
+  - string: 風のスレノディII
+  874:
+  - string: 土のスレノディII
+  875:
+  - string: 雷のスレノディII
+  876:
+  - string: 水のスレノディII
+  877:
+  - string: 光のスレノディII
+  878:
+  - string: 闇のスレノディII
+  879:
+  - string: イナンデーション
+  880:
+  - string: ドレインIII
+  881:
+  - string: アスピルIII
+  882:
+  - string: ディストラIII
+  883:
+  - string: フラズルIII
+  884:
+  - string: アドルII
+  885:
+  - string: 土門の計II
+  886:
+  - string: 水門の計II
+  887:
+  - string: 風門の計II
+  888:
+  - string: 火門の計II
+  889:
+  - string: 氷門の計II
+  890:
+  - string: 雷門の計II
+  891:
+  - string: 闇門の計II
+  892:
+  - string: 光門の計II
+  893:
+  - string: フルケア
+  894:
+  - string: リフレシュIII
+  895:
+  - string: ストライII
+  896:
+  - string: シャントット
+  897:
+  - string: ナジ
+  898:
+  - string: クピピ
+  899:
+  - string: エグセニミル
+  900:
+  - string: アヤメ
+  901:
+  - string: ナナー・ミーゴ
+  902:
+  - string: クリルラ
+  903:
+  - string: フォルカー
+  904:
+  - string: アジドマルジド
+  905:
+  - string: トリオン
+  906:
+  - string: ザイド
+  907:
+  - string: ライオン
+  908:
+  - string: テンゼン
+  909:
+  - string: ミリ・アリアポー
+  910:
+  - string: ヴァレンラール
+  911:
+  - string: ヨアヒム
+  912:
+  - string: ナジャ・サラヒム
+  913:
+  - string: プリッシュ
+  914:
+  - string: ウルミア
+  915:
+  - string: スカリーZ
+  916:
+  - string: チェルキキ
+  917:
+  - string: アイアンイーター
+  918:
+  - string: ゲッショー
+  919:
+  - string: ガダラル
+  920:
+  - string: ライニマード
+  921:
+  - string: イングリッド
+  922:
+  - string: レコ・ハボッカ
+  923:
+  - string: ナシュメラ
+  924:
+  - string: ザザーグ
+  925:
+  - string: アヴゼン
+  926:
+  - string: メネジン
+  927:
+  - string: サクラ
+  928:
+  - string: ルザフ
+  929:
+  - string: ナジュリス
+  930:
+  - string: アルド
+  931:
+  - string: モーグリ
+  932:
+  - string: ファブリニクス
+  933:
+  - string: マート
+  934:
+  - string: D.シャントット
+  935:
+  - string: 星の神子
+  936:
+  - string: カラハバルハ
+  937:
+  - string: シド
+  938:
+  - string: ギルガメッシュ
+  939:
+  - string: アレヴァト
+  940:
+  - string: セミ・ラフィーナ
+  941:
+  - string: エリヴィラ
+  942:
+  - string: ノユリ
+  943:
+  - string: ルー・マカラッカ
+  944:
+  - string: フェリアスコフィン
+  945:
+  - string: リリゼット
+  946:
+  - string: ミュモル
+  947:
+  - string: ウカ・トトゥリン
+  948:
+  - string: クララ
+  949:
+  - string: ロマー・ミーゴ
+  950:
+  - string: クイン・ハスデンナ
+  951:
+  - string: ラーアル
+  952:
+  - string: コルモル
+  953:
+  - string: ピエージェ(UC)
+  954:
+  - string: I.シールド(UC)
+  955:
+  - string: アプルル(UC)
+  956:
+  - string: ジャコ(UC)
+  957:
+  - string: フラヴィリア(UC)
+  958:
+  - string: ウェイレア
+  959:
+  - string: アベンツィオ
+  960:
+  - string: ルガジーン
+  961:
+  - string: クッキーチェブキー
+  962:
+  - string: マルグレート
+  963:
+  - string: チャチャルン
+  964:
+  - string: レイ・ランガヴォ
+  965:
+  - string: アシェラ
+  966:
+  - string: マヤコフ
+  967:
+  - string: クルタダ
+  968:
+  - string: アーデルハイト
+  969:
+  - string: アムチュチュ
+  970:
+  - string: ブリジッド
+  971:
+  - string: ミルドリオン
+  972:
+  - string: ハルヴァー
+  973:
+  - string: ロンジェルツ
+  974:
+  - string: レオノアーヌ
+  975:
+  - string: マクシミリアン
+  976:
+  - string: カイルパイル
+  977:
+  - string: ロベルアクベル
+  978:
+  - string: クポフリート
+  979:
+  - string: セルテウス
+  980:
+  - string: ヨランオラン(UC)
+  981:
+  - string: シルヴィ(UC)
+  982:
+  - string: アブクーバ
+  983:
+  - string: バラモア
+  984:
+  - string: オーグスト
+  985:
+  - string: ロスレーシャ
+  986:
+  - string: テオドール
+  987:
+  - string: ウルゴア
+  988:
+  - string: マッキーチェブキー
+  989:
+  - string: キング・オブ・ハーツ
+  990:
+  - string: モリマー
+  991:
+  - string: ダラクァルン
+  992:
+  - string: アークHM
+  993:
+  - string: アークEV
+  994:
+  - string: アークMR
+  995:
+  - string: アークTT
+  996:
+  - string: アークGK
+  997:
+  - string: イロハ
+  998:
+  - string: ユグナス
+  999:
+  - string: モンブロー
+  1000:
+  - string: (Empty)
+  1001:
+  - string: (Empty)
+  1002:
+  - string: コーネリア
+  1003:
+  - string: マツイP
+  1004:
+  - string: エグセニミルII
+  1005:
+  - string: アヤメ(UC)
+  1006:
+  - string: マート(UC)
+  1007:
+  - string: アルド(UC)
+  1008:
+  - string: ナジャ(UC)
+  1009:
+  - string: ライオンII
+  1010:
+  - string: ザイドII
+  1011:
+  - string: プリッシュII
+  1012:
+  - string: ナシュメラII
+  1013:
+  - string: リリゼットII
+  1014:
+  - string: テンゼンII
+  1015:
+  - string: ミュモルII
+  1016:
+  - string: イングリッドII
+  1017:
+  - string: アシェラII
+  1018:
+  - string: イロハII
+  1019:
+  - string: シャントットII
+  1020:
+  - string: (Empty)
+  1021:
+  - string: (Empty)
+  1022:
+  - string: (Empty)
+  1023:
+  - string: (Empty)
