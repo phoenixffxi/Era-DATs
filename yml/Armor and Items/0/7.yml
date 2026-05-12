@@ -19888,11 +19888,11 @@ items:
       被物理ダメージ-7% 被魔法ダメージ+1%
       ユニティランク:HP+10～35
   flags:
+  - AugSendable
   - CanEquip
   - Ex
   - NoSale
   - Rare
-  - WallHanging
   stack_size: 1
   item_type: Armor
   resource_id: 51001
@@ -19958,11 +19958,11 @@ items:
       命中+11 飛命+16
       ユニティランク:敵対心-1～-5
   flags:
+  - AugSendable
   - CanEquip
   - Ex
   - NoSale
   - Rare
-  - WallHanging
   stack_size: 1
   item_type: Armor
   resource_id: 51001
@@ -173040,7 +173040,7 @@ items:
     name: イージス
     description: |-
       防40 シールドバッシュ性能アップ
-      被魔法ダメージII-25%
+      被魔法ダメージ-25%
   flags:
   - CanEquip
   - Ex
