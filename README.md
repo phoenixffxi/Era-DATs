@@ -6,7 +6,7 @@ A repository hosting custom DAT files for running a Level 75 era Final Fantasy X
 
 This repository contains game data files (DATs) required for implementing era-accurate content on the Phoenix repository. These files include custom Limbus content and other era-specific game data that restores Lv 75 era functionality and dialogues.
 
-Tool used for editing DATs: https://github.com/InoUno/xi-tinkerer
+Tool used for editing DATs: https://github.com/Frankie-hz/Kraken
 
 ## Dat Lists
 
