@@ -31,6 +31,7 @@ Tool used for editing DATs: https://github.com/Frankie-hz/Kraken
 - ROM/118/107.dat	| UsableItems
 - ROM/118/108.dat	| Weapons
 - ROM/118/109.dat	| Armor
+- ROM/118/109.dat	| PuppetItems
 - ROM/286/72.dat	| Armor2 (JP)
 - ROM/286/73.dat	| Armor2
 - ROM/301/114.dat	| GeneralItems2 (JP)
