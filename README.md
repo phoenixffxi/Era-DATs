@@ -46,14 +46,17 @@ Tool used for editing DATs: https://github.com/Frankie-hz/Kraken
 
 ### Zone DATs
 - ROM/26/103.DAT  | Ranguemont Pass
+- ROM/26/104.DAT  | Bostaunieux Oubliette
 - ROM/26/106.DAT  | Toraimarai Canal
 - ROM/26/109.DAT  | Zeruhn Mines
 - ROM/26/127.DAT  | King Ranperre's Tomb
+- ROM/27/0.DAT    | Dangruf Wadi
 - ROM/27/1.DAT    | Inner Horutoto Ruins
 - ROM/27/2.DAT    | Ordelle's Caves
 - ROM/27/3.DAT    | Outer Horutoto Ruins
 - ROM/27/4.DAT    | The Eldieme Necropolis
 - ROM/27/5.DAT    | Gusgen Mines
+- ROM/27/6.DAT    | Crawlers Nest
 - ROM/27/7.DAT    | Maze of Shakhrami
 - ROM/27/9.DAT    | Garlaige Citadel
 - ROM/27/13.DAT   | Fei'Yin
@@ -74,4 +77,5 @@ Tool used for editing DATs: https://github.com/Frankie-hz/Kraken
 - ROM3/3/12.DAT   | Riverne - Site A01
 - ROM4/1/51.DAT   | Bhaflau Thickets
 - ROM4/1/53.DAT   | Arrapago Reef
+- ROM4/1/67.DAT   | Aydeewa Subterrane
 - ROM4/1/78.DAT   | Caedarva Mire
