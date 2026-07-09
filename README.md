@@ -59,6 +59,7 @@ Tool used for editing DATs: https://github.com/Frankie-hz/Kraken
 - ROM/27/13.DAT   | Fei'Yin
 - ROM2/13/114.DAT | Behemoth's Dominion
 - ROM2/13/117.DAT | Valley of Sorrows
+- ROM2/14/5.DAT   | Gustav Tunnel
 - ROM2/14/6.DAT   | Labyrinth of Onzozo
 - ROM3/2/114.DAT  | Bibiki Bay
 - ROM3/2/115.DAT  | Uleguerand Range
