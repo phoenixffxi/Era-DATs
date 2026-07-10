@@ -27,11 +27,12 @@ Tool used for editing DATs: https://github.com/Frankie-hz/Kraken
 - ROM/0/5.dat	    | UsableItems (JP)
 - ROM/0/6.dat	    | Weapons (JP)
 - ROM/0/7.dat	    | Armor (JP)
+- ROM/0/8.dat	    | PuppetItems (JP)
 - ROM/118/106.dat	| GeneralItems
 - ROM/118/107.dat	| UsableItems
 - ROM/118/108.dat	| Weapons
 - ROM/118/109.dat	| Armor
-- ROM/118/109.dat	| PuppetItems
+- ROM/118/110.dat	| PuppetItems
 - ROM/286/72.dat	| Armor2 (JP)
 - ROM/286/73.dat	| Armor2
 - ROM/301/114.dat	| GeneralItems2 (JP)
@@ -60,8 +61,8 @@ Tool used for editing DATs: https://github.com/Frankie-hz/Kraken
 - ROM/27/7.DAT    | Maze of Shakhrami
 - ROM/27/9.DAT    | Garlaige Citadel
 - ROM/27/13.DAT   | Fei'Yin
-- ROM2/13/114.DAT | Behemoth's Dominion
-- ROM2/13/117.DAT | Valley of Sorrows
+- ROM2/13/114.DAT | Kuftal Tunnel
+- ROM2/13/117.DAT | The Shrine of Ru'Avitau
 - ROM2/14/5.DAT   | Gustav Tunnel
 - ROM2/14/6.DAT   | Labyrinth of Onzozo
 - ROM3/2/114.DAT  | Bibiki Bay
