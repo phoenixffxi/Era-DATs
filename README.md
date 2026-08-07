@@ -61,6 +61,7 @@ Tool used for editing DATs: https://github.com/Frankie-hz/Kraken
 - ROM/27/7.DAT    | Maze of Shakhrami
 - ROM/27/9.DAT    | Garlaige Citadel
 - ROM/27/13.DAT   | Fei'Yin
+- ROM2/13/106.DAT | The Boyahda Tree
 - ROM2/13/114.DAT | Kuftal Tunnel
 - ROM2/13/117.DAT | The Shrine of Ru'Avitau
 - ROM2/14/5.DAT   | Gustav Tunnel
