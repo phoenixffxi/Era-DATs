@@ -81,3 +81,14 @@ Tool used for editing DATs: https://github.com/Frankie-hz/Kraken
 - ROM4/1/53.DAT   | Arrapago Reef
 - ROM4/1/67.DAT   | Aydeewa Subterrane
 - ROM4/1/78.DAT   | Caedarva Mire
+
+### Events
+- ROM4/0/55.DAT | Events 620/621/622
+
+  ```
+  Patas (16419)          -> Tigerfangs (16422)
+  Heavy Crossbow (17220) -> Repeating Crossbow (17221)
+  ```
+
+  Restores the pre-March-2015 automaton frame materials in Ghatsad's dialogue
+  to match the era_choosing_an_automaton_frame server module.
