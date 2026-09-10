@@ -1,3 +1,4 @@
+layout: Extended
 items:
 - id: 8704
   strings:
@@ -6249,8 +6250,8 @@ items:
   flags:
   - MysteryBox
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 99
   item_type: Item
   resource_id: 65000
@@ -6289,8 +6290,8 @@ items:
     description: This sword looks just like any other old sword to you.
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -6309,8 +6310,8 @@ items:
     description: This dagger looks just like any other old dagger to you.
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -6329,8 +6330,8 @@ items:
     description: This pole looks just like any other old pole to you.
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -6349,8 +6350,8 @@ items:
     description: This axe looks just like any other old axe to you.
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -6369,8 +6370,8 @@ items:
     description: This bow looks just like any other old bow to you.
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -6389,8 +6390,8 @@ items:
     description: These gloves looks just like any other old gloves to you.
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -6409,8 +6410,8 @@ items:
     description: This footwear looks just like any other old footwear to you.
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -6429,8 +6430,8 @@ items:
     description: This headwear looks just like any other old headwear to you.
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -6449,8 +6450,8 @@ items:
     description: This earring looks just like any other old earring to you.
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -6469,8 +6470,8 @@ items:
     description: This ring looks just like any other old ring to you.
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -6489,8 +6490,8 @@ items:
     description: This cape looks just like any other old cape to you.
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -6509,8 +6510,8 @@ items:
     description: This sash looks just like any other old sash to you.
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -6529,8 +6530,8 @@ items:
     description: This shield looks just like any other old shield to you.
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -6549,8 +6550,8 @@ items:
     description: This necklace looks just like any other old necklace to you.
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -6569,8 +6570,8 @@ items:
     description: This box looks just like any other old box to you.
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -6589,8 +6590,8 @@ items:
     description: This box looks just like any other old box to you.
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000

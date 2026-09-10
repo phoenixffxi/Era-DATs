@@ -1,3 +1,4 @@
+layout: Extended
 items:
 - id: 8704
   strings:
@@ -5468,8 +5469,8 @@ items:
   flags:
   - MysteryBox
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 99
   item_type: Item
   resource_id: 65000
@@ -5504,8 +5505,8 @@ items:
       識別の困難な中古の刀剣。
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -5522,8 +5523,8 @@ items:
       識別の困難な中古の短剣。
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -5540,8 +5541,8 @@ items:
       識別の困難な中古の長柄武器。
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -5558,8 +5559,8 @@ items:
       識別の困難な中古の斧。
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -5576,8 +5577,8 @@ items:
       識別の困難な中古の弓。
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -5594,8 +5595,8 @@ items:
       識別の困難な中古の手袋。
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -5612,8 +5613,8 @@ items:
       識別の困難な中古の靴。
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -5630,8 +5631,8 @@ items:
       識別の困難な中古の頭衣。
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -5648,8 +5649,8 @@ items:
       識別の困難な中古の耳飾り。
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -5666,8 +5667,8 @@ items:
       識別の困難な中古の指輪。
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -5684,8 +5685,8 @@ items:
       識別の困難な中古の外衣。
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -5702,8 +5703,8 @@ items:
       識別の困難な中古の帯。
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -5720,8 +5721,8 @@ items:
       識別の困難な中古の盾。
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -5738,8 +5739,8 @@ items:
       識別の困難な中古の首飾り。
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -5756,8 +5757,8 @@ items:
       鍵穴の錆びついた古びた箱。
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
@@ -5774,8 +5775,8 @@ items:
       鍵穴の錆びついた古びた箱。
   flags:
   - NoAuction
-  - NoDelivery
   - NoSale
+  - NoDelivery
   stack_size: 1
   item_type: QuestItem
   resource_id: 65000
