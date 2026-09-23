@@ -83,6 +83,8 @@ Tool used for editing DATs: https://github.com/Frankie-hz/Kraken
 - ROM4/1/78.DAT   | Caedarva Mire
 
 ### Events
+
+#### Automaton Frames
 - ROM4/0/55.DAT | Events 620/621/622
 
   ```
@@ -92,3 +94,120 @@ Tool used for editing DATs: https://github.com/Frankie-hz/Kraken
 
   Restores the pre-March-2015 automaton frame materials in Ghatsad's dialogue
   to match the era_choosing_an_automaton_frame server module.
+
+#### Conquest Overseer Shops
+- ROM/21/39.DAT | Southern San d'Oria
+- ROM/21/40.DAT | Northern San d'Oria
+- ROM/21/43.DAT | Bastok Mines
+- ROM/21/44.DAT | Bastok Markets
+- ROM/21/45.DAT | Port Bastok
+- ROM/21/46.DAT | Metalworks
+- ROM/21/47.DAT | Windurst Waters
+- ROM/21/49.DAT | Port Windurst
+- ROM/21/50.DAT | Windurst Woods
+- ROM/21/52.DAT | Ru'Lude Gardens
+- ROM/21/53.DAT | Upper Jeuno
+- ROM/21/54.DAT | Lower Jeuno
+- ROM/21/55.DAT | Port Jeuno
+
+  Hides common items page 2 (Warp Ring, Ciphers, chair sets, nation flag) and the Emperor Band row.
+  Sets Scroll of Instant Reraise to 500 CP and Scroll of Instant Warp to 750 CP
+  to match the era_conquest_costs server module.
+
+#### Adventurer Coupons
+- ROM/21/39.DAT | Southern San d'Oria
+- ROM/21/40.DAT | Northern San d'Oria
+- ROM/21/41.DAT | Port San d'Oria
+- ROM/21/43.DAT | Bastok Mines
+- ROM/21/44.DAT | Bastok Markets
+- ROM/21/45.DAT | Port Bastok
+- ROM/21/47.DAT | Windurst Waters
+- ROM/21/48.DAT | Windurst Walls
+- ROM/21/49.DAT | Port Windurst
+- ROM/21/50.DAT | Windurst Woods
+
+  Removes the post-2008 "go speak to the tutorial guard" line from the coupon trade NPCs.
+  Client-only.
+
+#### Outpost Teleports
+- ROM/20/37.DAT  | West Ronfaure
+- ROM/20/40.DAT  | Valkurm Dunes
+- ROM/20/41.DAT  | Jugner Forest
+- ROM/20/43.DAT  | North Gustaberg
+- ROM/20/46.DAT  | Pashhow Marshlands
+- ROM/20/48.DAT  | Beaucedine Glacier
+- ROM/20/49.DAT  | Xarcabard
+- ROM/20/52.DAT  | West Sarutabaruta
+- ROM/20/55.DAT  | Buburimu Peninsula
+- ROM/20/56.DAT  | Meriphataud Mountains
+- ROM/20/63.DAT  | Qufim Island
+- ROM/21/40.DAT  | Northern San d'Oria
+- ROM/21/43.DAT  | Bastok Mines
+- ROM/21/49.DAT  | Port Windurst
+- ROM/24/37.DAT  | West Ronfaure (Dialogue)
+- ROM/24/40.DAT  | Valkurm Dunes (Dialogue)
+- ROM/24/41.DAT  | Jugner Forest (Dialogue)
+- ROM/24/43.DAT  | North Gustaberg (Dialogue)
+- ROM/24/46.DAT  | Pashhow Marshlands (Dialogue)
+- ROM/24/48.DAT  | Beaucedine Glacier (Dialogue)
+- ROM/24/49.DAT  | Xarcabard (Dialogue)
+- ROM/24/52.DAT  | West Sarutabaruta (Dialogue)
+- ROM/24/55.DAT  | Buburimu Peninsula (Dialogue)
+- ROM/24/56.DAT  | Meriphataud Mountains (Dialogue)
+- ROM/24/63.DAT  | Qufim Island (Dialogue)
+- ROM/25/40.DAT  | Northern San d'Oria (Dialogue)
+- ROM/25/43.DAT  | Bastok Mines (Dialogue)
+- ROM/25/49.DAT  | Port Windurst (Dialogue)
+- ROM2/13/5.DAT  | Cape Teriggan
+- ROM2/13/6.DAT  | Eastern Altepa Desert
+- ROM2/13/7.DAT  | The Sanctuary of Zi'Tah
+- ROM2/13/9.DAT  | Yuhtunga Jungle
+- ROM2/13/10.DAT | Yhoator Jungle
+- ROM2/17/46.DAT | Cape Teriggan (Dialogue)
+- ROM2/17/47.DAT | Eastern Altepa Desert (Dialogue)
+- ROM2/17/54.DAT | The Sanctuary of Zi'Tah (Dialogue)
+- ROM2/17/56.DAT | Yuhtunga Jungle (Dialogue)
+- ROM2/17/57.DAT | Yhoator Jungle (Dialogue)
+- ROM3/0/77.DAT  | Oldton Movalpolos
+- ROM3/0/90.DAT  | Lufaise Meadows
+- ROM3/2/21.DAT  | Oldton Movalpolos (Dialogue)
+- ROM3/2/34.DAT  | Lufaise Meadows (Dialogue)
+
+  Removes the conquest point teleport option and fee text, leaving a gil-only Yes/No menu.
+  Removes the "I now also deal in evoliths" greeting from outpost vendors
+  to match the era_outpost_teleport_payment server module (ENABLE_VOIDWATCH = 0).
+
+#### Teamwork Quests
+- ROM/24/37.DAT | West Ronfaure (Dialogue)
+
+  Restores Vilatroire's six-member party requirement text for Introduction/Intermediate/Advanced Teamwork
+  to match the era teamwork server modules.
+
+#### Subjob Quests
+- ROM/21/57.DAT | Selbina
+- ROM/21/58.DAT | Mhaura
+
+  Removes the Gilgamesh's Introductory Letter alternate-item line from Isacio (The Old Lady) and Vera (Elder Memories).
+  Client-only.
+
+#### Guild Point Shops
+- ROM/21/39.DAT | Southern San d'Oria
+- ROM/21/40.DAT | Northern San d'Oria
+- ROM/21/43.DAT | Bastok Mines
+- ROM/21/44.DAT | Bastok Markets
+- ROM/21/46.DAT | Metalworks
+- ROM/21/47.DAT | Windurst Waters
+- ROM/21/49.DAT | Port Windurst
+- ROM/21/50.DAT | Windurst Woods
+- ROM/25/39.DAT | Southern San d'Oria (Dialogue)
+- ROM/25/40.DAT | Northern San d'Oria (Dialogue)
+- ROM/25/43.DAT | Bastok Mines (Dialogue)
+- ROM/25/44.DAT | Bastok Markets (Dialogue)
+- ROM/25/46.DAT | Metalworks (Dialogue)
+- ROM/25/47.DAT | Windurst Waters (Dialogue)
+- ROM/25/49.DAT | Port Windurst (Dialogue)
+- ROM/25/50.DAT | Windurst Woods (Dialogue)
+
+  Hides signboards, craft rings, guild tools and emblems.
+  Sets Aurora Crystal and Twilight Crystal to 500 GP
+  to match the guild_point_shop server module (ENABLE_WOTG = 0).
