@@ -211,3 +211,18 @@ Tool used for editing DATs: https://github.com/Frankie-hz/Kraken
   Hides signboards, craft rings, guild tools and emblems.
   Sets Aurora Crystal and Twilight Crystal to 500 GP
   to match the guild_point_shop server module (ENABLE_WOTG = 0).
+
+#### Guild Master Rank Dialogue
+- ROM/21/39.DAT | Southern San d'Oria | Faulpie (Leathercraft)
+- ROM/21/40.DAT | Northern San d'Oria | Cheupirudaux (Woodworking), Mevreauche (Smithing)
+- ROM/21/43.DAT | Bastok Mines        | Abd-al-Raziq (Alchemy)
+- ROM/21/44.DAT | Bastok Markets      | Reinberta (Goldsmithing)
+- ROM/21/46.DAT | Metalworks          | Ghemp (Smithing)
+- ROM/21/47.DAT | Windurst Waters     | Piketo-Puketo (Cooking)
+- ROM/21/50.DAT | Windurst Woods      | Ponono (Clothcraft), Peshi Yohnts (Bonecraft)
+
+  Moves the "other guilds" caution from the Artisan test offer to the Craftsman test offer (skill 58+).
+  Test offer names the Craftsman title instead of Artisan.
+  Adds the era "don't spread yourself across guilds" line to the Craftsman promotion and removes it from Artisan.
+  Restores the era Craftsman promotion wording for Faulpie, Mevreauche and Reinberta.
+  Client-only.
