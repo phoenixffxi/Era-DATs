@@ -183,6 +183,13 @@ Tool used for editing DATs: https://github.com/Frankie-hz/Kraken
   Restores Vilatroire's six-member party requirement text for Introduction/Intermediate/Advanced Teamwork
   to match the era teamwork server modules.
 
+#### The Gustaberg Tour
+- ROM/24/43.DAT | North Gustaberg (Dialogue) | Hunting Bear
+- ROM/25/46.DAT | Metalworks (Dialogue)      | Izabele
+
+  Restores the six-member, level five and below party requirement text
+  to match the era_quest_the_gustaberg_tour server module.
+
 #### Subjob Quests
 - ROM/21/57.DAT | Selbina
 - ROM/21/58.DAT | Mhaura
