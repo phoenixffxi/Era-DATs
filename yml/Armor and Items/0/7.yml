@@ -198713,7 +198713,7 @@ items:
     name: アニバーサリリング
     description: |-
       取得経験値ボーナス:+100%
-      最大効果時間:720分 最大ボーナス総量:10000
+      最大効果時間:720分 最大ボーナス総量:3000
   flags:
   - CanEquip
   - CanTradeNPC
@@ -210409,7 +210409,7 @@ items:
 - id: 16120
   strings:
     name: レッドアイズ
-    description: ''
+    description: ストック:エンゼルウィング
   flags:
   - CanEquip
   - CanTradeNPC
@@ -210433,10 +210433,10 @@ items:
     - All
     superior_level: 0
     shield_size: 0
-    max_charges: 0
-    casting_time: 0
-    use_delay: 0
-    reuse_delay: 0
+    max_charges: 1
+    casting_time: 8
+    use_delay: 30
+    reuse_delay: 86400
     unknown1: 0
     ilevel: 0
     unknown2: 0
