@@ -226,3 +226,25 @@ Tool used for editing DATs: https://github.com/Frankie-hz/Kraken
   Adds the era "don't spread yourself across guilds" line to the Craftsman promotion and removes it from Artisan.
   Restores the era Craftsman promotion wording for Faulpie, Mevreauche and Reinberta.
   Client-only.
+
+#### Ammunition Bundling
+- ROM/21/39.DAT | Southern San d'Oria
+- ROM/21/45.DAT | Port Bastok
+- ROM/21/50.DAT | Windurst Woods
+
+  ```
+  Nokkhi Jinjahl (Port Bastok 285, Southern San d'Oria 683, Windurst Woods 667), lines removed:
+    "And of course, Antlion Arrow, Darkling Bolt, Fusion Bolt, Dweomer Bullet, Oberon's Bullet!"
+    "Then there's everyone's favorite Ruszor Arrow, Dark Adaman Bolt, Dark Adaman Bullet."
+    "Finally, new to my bundling repertoire, we have Gargouille Arrow, Adaman Bolt,
+     Orichalcum Bullet, Adaman Bullet!"
+  ```
+
+  The rest of the dialogue matches 2008: the same lines, item lists and Carnation price. The only
+  difference is that "I can even bundle those elemental cards that corsairs use!" is still its own
+  dialogue box. In 2008 it ended the bullet line.
+
+  Ominous Cloud (ninja tool bundling) already matches 2008 and is unchanged.
+
+  Existing changes kept: Conquest Overseer Shops, Adventurer Coupons and Home Points in all three
+  files, plus Guild Point Shops and Guild Master Rank Dialogue in ROM/21/39 and ROM/21/50.
