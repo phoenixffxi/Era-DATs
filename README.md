@@ -248,3 +248,15 @@ Tool used for editing DATs: https://github.com/Frankie-hz/Kraken
 
   Existing changes kept: Conquest Overseer Shops, Adventurer Coupons and Home Points in all three
   files, plus Guild Point Shops and Guild Master Rank Dialogue in ROM/21/39 and ROM/21/50.
+
+#### Imperial Standing Shops
+- ROM4/0/53.DAT | Al Zahbi
+- ROM4/0/55.DAT | Aht Urhgan Whitegate
+- ROM4/0/58.DAT | Nashmau
+
+  Hides common items page 2 (Heat Capacitor, Power Cooler, Barrage Turbine, Galvanizer, Ephramadian Throne, Cipher: Mihli)
+  and the "I want to spend my accolades." option on the Imperial gate guards (Falzuuk, Famatar, Asrahd, Nabihwah).
+  Sets Scroll of Instant Reraise to 500 credits and Scroll of Instant Warp to 750 credits
+  to match the era_imperial_standing_shop server module (ENABLE_ABYSSEA = 0).
+
+  Existing changes in all three files are kept.
