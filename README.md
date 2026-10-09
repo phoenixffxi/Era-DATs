@@ -45,6 +45,11 @@ Tool used for editing DATs: https://github.com/Frankie-hz/Kraken
 - ROM\181\75.DAT  | Descriptions
 - ROM\181\71.DAT  | Descriptions (JP)
 
+### Effect DATs
+- ROM/0/0.DAT     | Pet readying effect
+
+  Restores the readying effect on pets (wyvern breaths, blood pacts, jug pet moves).
+
 ### Zone DATs
 - ROM/26/103.DAT  | Ranguemont Pass
 - ROM/26/104.DAT  | Bostaunieux Oubliette
