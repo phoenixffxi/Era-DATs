@@ -74449,7 +74449,6 @@ items:
     jobs:
     - DRK
     - PLD
-    - WAR
     superior_level: 0
     shield_size: 3
     max_charges: 0
@@ -75178,7 +75177,6 @@ items:
     jobs:
     - DRK
     - PLD
-    - WAR
     superior_level: 0
     shield_size: 3
     max_charges: 0
@@ -198713,7 +198711,7 @@ items:
     name: アニバーサリリング
     description: |-
       取得経験値ボーナス:+100%
-      最大効果時間:720分 最大ボーナス総量:3000
+      最大効果時間:720分 最大ボーナス総量:10000
   flags:
   - CanEquip
   - CanTradeNPC
