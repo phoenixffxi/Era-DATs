@@ -265,3 +265,13 @@ Tool used for editing DATs: https://github.com/Frankie-hz/Kraken
   to match the era_imperial_standing_shop server module (ENABLE_ABYSSEA = 0).
 
   Existing changes in all three files are kept.
+
+#### Sagheera
+- ROM/21/55.DAT | Port Jeuno
+
+  Restores Sagheera's 2008 menu in event 310: "Buy detergent." and "Ask about the detergent." are shown again
+  and "Retrieve" is hidden. Restores the 2008 Cosmo-Cleanse purchase flow and first-visit detergent pitch.
+  Shows Cosmo-Cleanse at 30,000 gil and limits the armor set lists to the 15 era jobs.
+  Replaces the XIDivert 501 setup: the server starts event 310 without the 501 text table.
+
+  Existing changes kept: Conquest Overseer Shops and Home Points.
