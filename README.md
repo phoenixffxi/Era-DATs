@@ -275,3 +275,23 @@ Tool used for editing DATs: https://github.com/Frankie-hz/Kraken
   Replaces the XIDivert 501 setup: the server starts event 310 without the 501 text table.
 
   Existing changes kept: Conquest Overseer Shops and Home Points.
+
+#### Map Vendors
+- ROM/21/39.DAT  | Southern San d'Oria  | Violitte
+- ROM/21/40.DAT  | Northern San d'Oria  | Elesca
+- ROM/21/44.DAT  | Bastok Markets       | Karine
+- ROM/21/45.DAT  | Port Bastok          | Rex
+- ROM/21/49.DAT  | Port Windurst        | Mhoji Roccoruh
+- ROM/21/50.DAT  | Windurst Woods       | Pehki Machumaht
+- ROM/21/53.DAT  | Upper Jeuno          | Rusese
+- ROM/21/54.DAT  | Lower Jeuno          | Promurouve
+- ROM/21/57.DAT  | Selbina              | Lombaria
+- ROM/21/58.DAT  | Mhaura               | Ludwig
+- ROM2/13/46.DAT | Rabao                | Ashu Bolkhomo
+- ROM4/0/55.DAT  | Aht Urhgan Whitegate | Riyadahf
+
+  Shows the pre-July-2014 map prices in the menu and in the map descriptions: 600 gil for the Jeuno area,
+  the starter dungeons and Al Zahbi, 3000 gil for the outer regions and strongholds
+  to match the era_map_vendors server module (BUG-3259).
+
+  Existing changes in all twelve files are kept.
