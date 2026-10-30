@@ -8264,7 +8264,7 @@ items:
     article_type: An
     singular_name: enif zucchetto
     plural_name: enif zucchettos
-    description: "DEF:49 HP+35 MP+35 Accuracy+7 \nAttack+7 Magic Accuracy+7 \nHaste+5%"
+    description: "DEF:46 HP+35 MP+35 Accuracy+7 \nAttack+7 Magic Accuracy+7 \nHaste+5%"
   flags:
   - CanEquip
   - Ex
@@ -9380,7 +9380,7 @@ items:
     name: Fulad-Zereh
     article_type: A
     singular_name: fulad-zereh
-    plural_name: furad-zerehs
+    plural_name: fulad-zerehs
     description: "DEF:67 STR+15 DEX+15\nAccuracy+15 Attack+15 \nEvasion-15 \"Double Attack\"+3%"
   flags:
   - CanEquip
@@ -10329,7 +10329,7 @@ items:
     name: Hedera Cotehardie
     article_type: A
     singular_name: hedera cotehardie
-    plural_name: hedara cotehardies
+    plural_name: hedera cotehardies
     description: |-
       DEF:52 HP+60 MP+60
       Magic Accuracy+10
@@ -21548,7 +21548,7 @@ items:
     plural_name: cacoethic rings
     description: |-
       Accuracy+10 Ranged Accuracy+15
-      Unity Ranking: Enmity-1～5
+      Unity Ranking: Enmity-1～-5
   flags:
   - CanEquip
   - Ex
@@ -21586,7 +21586,7 @@ items:
     plural_name: cacoethic rings +1
     description: |-
       Accuracy+11 Ranged Accuracy+16
-      Unity Ranking: Enmity-1～5
+      Unity Ranking: Enmity-1～-5
   flags:
   - AugSendable
   - CanEquip
@@ -22794,7 +22794,7 @@ items:
     name: Thuellaic Ecu
     article_type: A
     singular_name: thuellaic ecu
-    plural_name: thuelliac ecus
+    plural_name: thuellaic ecus
     description: DEF:30 Evasion+8 Haste+2%
   flags:
   - CanEquip
@@ -26312,7 +26312,7 @@ items:
     article_type: A
     singular_name: kacura cap +1
     plural_name: kacura caps +1
-    description: "DEF:36 DEX+8 Evasion+10 \n\"Double Attack\"+2%"
+    description: "DEF:36 DEX+8 Evasion+10 \nCritical hit rate+2%"
   flags:
   - CanEquip
   stack_size: 1
@@ -197523,7 +197523,7 @@ items:
     name: Hierarch Belt
     article_type: A
     singular_name: hierarch belt
-    plural_name: hiearch belts
+    plural_name: hierarch belts
     description: |-
       DEF:3 MP+48
       HP recovered while healing +2
@@ -198181,7 +198181,7 @@ items:
     name: Mist Pumps
     article_type: PairOf
     singular_name: mist pumps
-    plural_name: pairs mist pumps
+    plural_name: pairs of mist pumps
     description: |-
       DEF:7 On Earthsdays: Evasion+2
       Enchantment: Evasion Boost
@@ -222739,7 +222739,7 @@ items:
     name: Stirge Belt
     article_type: A
     singular_name: stirge belt
-    plural_name: strige belts
+    plural_name: stirge belts
     description: 'Enchantment: Costume'
   flags:
   - CanEquip
@@ -229981,7 +229981,7 @@ items:
     article_type: PairOf
     singular_name: redeyes
     plural_name: pairs of redeyes
-    description: 'Dispense: Angelwing'
+    description: ''
   flags:
   - CanEquip
   - CanTradeNPC
@@ -230005,10 +230005,10 @@ items:
     - All
     superior_level: 0
     shield_size: 0
-    max_charges: 1
-    casting_time: 8
-    use_delay: 30
-    reuse_delay: 86400
+    max_charges: 0
+    casting_time: 0
+    use_delay: 0
+    reuse_delay: 0
     unknown1: 0
     ilevel: 0
     unknown2: 0
@@ -238770,7 +238770,7 @@ items:
     name: Enkidu's Subligar
     article_type: An
     singular_name: Enkidu's subligar
-    plural_name: Enkidu's ｓubligaria
+    plural_name: Enkidu's subligaria
     description: |-
       DEF:40 STR+4 DEX+4
       "Store TP"+5

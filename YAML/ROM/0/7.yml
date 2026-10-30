@@ -210407,7 +210407,7 @@ items:
 - id: 16120
   strings:
     name: レッドアイズ
-    description: ストック:エンゼルウィング
+    description: ''
   flags:
   - CanEquip
   - CanTradeNPC
@@ -210431,10 +210431,10 @@ items:
     - All
     superior_level: 0
     shield_size: 0
-    max_charges: 1
-    casting_time: 8
-    use_delay: 30
-    reuse_delay: 86400
+    max_charges: 0
+    casting_time: 0
+    use_delay: 0
+    reuse_delay: 0
     unknown1: 0
     ilevel: 0
     unknown2: 0
